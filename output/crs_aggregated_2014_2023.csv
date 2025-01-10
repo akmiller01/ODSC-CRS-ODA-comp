@@ -1,0 +1,1549 @@
+year,donor_code,donor_name,category_code,category_name,value
+2014,1.0,Austria,10,ODA,641.311538
+2014,1.0,Austria,21,Non-export credit OOF,99.282208
+2014,2.0,Belgium,10,ODA,1366.120206
+2014,2.0,Belgium,21,Non-export credit OOF,168.662695
+2014,3.0,Denmark,10,ODA,2272.786589
+2014,3.0,Denmark,21,Non-export credit OOF,50.082936000000004
+2014,4.0,France,10,ODA,8306.25906
+2014,4.0,France,21,Non-export credit OOF,1321.241077
+2014,5.0,Germany,10,ODA,14370.244129
+2014,5.0,Germany,21,Non-export credit OOF,1900.234052
+2014,6.0,Italy,10,ODA,1456.301717
+2014,6.0,Italy,21,Non-export credit OOF,48.47483
+2014,7.0,Netherlands,10,ODA,4180.103924
+2014,8.0,Norway,10,ODA,3913.51171
+2014,8.0,Norway,21,Non-export credit OOF,520.661758
+2014,9.0,Portugal,10,ODA,290.615569
+2014,9.0,Portugal,21,Non-export credit OOF,2.6801120000000003
+2014,10.0,Sweden,10,ODA,4418.808407
+2014,10.0,Sweden,21,Non-export credit OOF,46.835260000000005
+2014,11.0,Switzerland,10,ODA,2859.620166
+2014,11.0,Switzerland,21,Non-export credit OOF,21.628656
+2014,12.0,United Kingdom,10,ODA,11835.323321
+2014,12.0,United Kingdom,21,Non-export credit OOF,114.059479
+2014,18.0,Finland,10,ODA,937.619673
+2014,18.0,Finland,21,Non-export credit OOF,50.915009
+2014,20.0,Iceland,10,ODA,30.938582
+2014,21.0,Ireland,10,ODA,524.505445
+2014,22.0,Luxembourg,10,ODA,304.54391
+2014,30.0,Cyprus,10,ODA,0.1874
+2014,40.0,Greece,10,ODA,46.097532
+2014,50.0,Spain,10,ODA,705.529527
+2014,50.0,Spain,21,Non-export credit OOF,3.749352
+2014,61.0,Slovenia,10,ODA,20.212453
+2014,62.0,Croatia,10,ODA,30.11
+2014,68.0,Czechia,10,ODA,62.574156
+2014,69.0,Slovak Republic,10,ODA,16.37913
+2014,75.0,Hungary,10,ODA,30.097847
+2014,76.0,Poland,10,ODA,103.551914
+2014,77.0,Romania,10,ODA,69.992284
+2014,82.0,Estonia,10,ODA,15.002007
+2014,84.0,Lithuania,10,ODA,6.443205
+2014,84.0,Lithuania,21,Non-export credit OOF,0.436651
+2014,104.0,Nordic Development Fund [NDF],10,ODA,49.600569
+2014,301.0,Canada,10,ODA,3323.630084
+2014,301.0,Canada,21,Non-export credit OOF,62.369874
+2014,302.0,United States,10,ODA,28263.415
+2014,302.0,United States,21,Non-export credit OOF,281.58446000000004
+2014,552.0,Kuwait,10,ODA,549.919711
+2014,576.0,United Arab Emirates,10,ODA,5062.9703899999995
+2014,576.0,United Arab Emirates,21,Non-export credit OOF,501.89219
+2014,611.0,Azerbaijan,10,ODA,10.108111
+2014,613.0,Kazakhstan,10,ODA,27.08298
+2014,701.0,Japan,10,ODA,12569.882605
+2014,742.0,Korea,10,ODA,1476.920506
+2014,742.0,Korea,21,Non-export credit OOF,7142.18528
+2014,765.0,Timor-Leste,10,ODA,3.3
+2014,801.0,Australia,10,ODA,3520.767308
+2014,801.0,Australia,21,Non-export credit OOF,145.367416
+2014,811.0,Global Environment Facility [GEF],10,ODA,841.409678
+2014,820.0,New Zealand,10,ODA,410.689847
+2014,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,15880.431717
+2014,905.0,International Development Association [IDA],10,ODA,13816.045717
+2014,909.0,Inter-American Development Bank [IDB],10,ODA,1938.393774
+2014,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,8788.84222
+2014,913.0,African Development Bank [AfDB],10,ODA,137.442287
+2014,913.0,African Development Bank [AfDB],21,Non-export credit OOF,3044.926204
+2014,914.0,African Development Fund [AfDF],10,ODA,2010.238099
+2014,915.0,Asian Development Bank [AsDB],10,ODA,2797.580851
+2014,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,7600.4710749999995
+2014,918.0,EU Institutions,10,ODA,18453.721632
+2014,918.0,EU Institutions,21,Non-export credit OOF,868.164136
+2014,921.0,Arab Fund (AFESD),10,ODA,884.893648
+2014,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,65.010887
+2014,928.0,World Health Organisation [WHO],10,ODA,471.363057
+2014,940.0,International Labour Organisation [ILO],10,ODA,222.85774
+2014,948.0,UNECE,10,ODA,14.008016
+2014,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,460.260777
+2014,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,688.028901
+2014,953.0,Arab Bank for Economic Development in Africa [BADEA],10,ODA,125.987086
+2014,958.0,IMF Concessional Trust Funds,10,ODA,832.081897
+2014,959.0,UNDP,10,ODA,462.968234
+2014,963.0,UNICEF,10,ODA,1342.399394
+2014,964.0,UNRWA,10,ODA,680.100351
+2014,966.0,WFP,10,ODA,308.81252
+2014,967.0,UNHCR,10,ODA,480.08189999999996
+2014,971.0,UNAIDS,10,ODA,238.672026
+2014,974.0,UNFPA,10,ODA,340.006673
+2014,976.0,Islamic Development Bank [IsDB],10,ODA,245.902372
+2014,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,1516.684115
+2014,978.0,OSCE,10,ODA,130.509086
+2014,988.0,IFAD,10,ODA,4.1048
+2014,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,4823.359967
+2014,1011.0,Climate Investment Funds [CIF],10,ODA,350.219838
+2014,1011.0,Climate Investment Funds [CIF],21,Non-export credit OOF,56.25
+2014,1012.0,Adaptation Fund,10,ODA,40.423097
+2014,1013.0,Council of Europe Development Bank [CEB],10,ODA,77.182342
+2014,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,285.37850000000003
+2014,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,1414.730221
+2014,1312.0,Global Fund,10,ODA,2887.143688
+2014,1313.0,Global Green Growth Institute [GGGI],10,ODA,15.524768
+2014,1601.0,Bill & Melinda Gates Foundation,30,Private Development Finance,2666.393589
+2014,1605.0,MetLife Foundation,30,Private Development Finance,16.879951
+2014,1610.0,MAVA Foundation,30,Private Development Finance,26.381417000000003
+2014,1612.0,H&M Foundation,30,Private Development Finance,11.91296
+2014,1613.0,Laudes Foundation,30,Private Development Finance,9.595825
+2014,1614.0,Charity Projects Ltd (Comic Relief),30,Private Development Finance,69.107969
+2014,1616.0,Gatsby Charitable Foundation,30,Private Development Finance,8.725741
+2014,1617.0,Conrad N. Hilton Foundation,30,Private Development Finance,40.781
+2015,1.0,Austria,10,ODA,788.962281
+2015,1.0,Austria,21,Non-export credit OOF,100.470542
+2015,2.0,Belgium,10,ODA,1183.104747
+2015,2.0,Belgium,21,Non-export credit OOF,97.771912
+2015,3.0,Denmark,10,ODA,1979.589749
+2015,3.0,Denmark,21,Non-export credit OOF,37.630473
+2015,4.0,France,10,ODA,6796.412183
+2015,4.0,France,21,Non-export credit OOF,1213.029044
+2015,5.0,Germany,10,ODA,15924.393886
+2015,5.0,Germany,21,Non-export credit OOF,2599.5811869999998
+2015,6.0,Italy,10,ODA,1879.684418
+2015,6.0,Italy,21,Non-export credit OOF,29.368408
+2015,7.0,Netherlands,10,ODA,4256.002484000001
+2015,8.0,Norway,10,ODA,3333.592572
+2015,8.0,Norway,21,Non-export credit OOF,803.391429
+2015,9.0,Portugal,10,ODA,191.909571
+2015,9.0,Portugal,21,Non-export credit OOF,1.386578
+2015,10.0,Sweden,10,ODA,4908.106676
+2015,10.0,Sweden,21,Non-export credit OOF,46.025414
+2015,11.0,Switzerland,10,ODA,2821.527028
+2015,11.0,Switzerland,21,Non-export credit OOF,27.010495
+2015,12.0,United Kingdom,10,ODA,11849.265044
+2015,18.0,Finland,10,ODA,718.224951
+2015,18.0,Finland,21,Non-export credit OOF,45.258398
+2015,20.0,Iceland,10,ODA,31.042642
+2015,21.0,Ireland,10,ODA,427.466447
+2015,22.0,Luxembourg,10,ODA,262.678028
+2015,30.0,Cyprus,10,ODA,0.5677
+2015,40.0,Greece,10,ODA,71.88911999999999
+2015,45.0,Malta,10,ODA,8.015769
+2015,50.0,Spain,10,ODA,756.655251
+2015,50.0,Spain,21,Non-export credit OOF,5.797047
+2015,55.0,Türkiye,10,ODA,4095.8999999999996
+2015,61.0,Slovenia,10,ODA,25.101361
+2015,62.0,Croatia,10,ODA,16.2
+2015,68.0,Czechia,10,ODA,70.103726
+2015,69.0,Slovak Republic,10,ODA,17.2406
+2015,70.0,Liechtenstein,10,ODA,19.0511
+2015,72.0,Bulgaria,10,ODA,1.4
+2015,75.0,Hungary,10,ODA,47.342042
+2015,76.0,Poland,10,ODA,124.884776
+2015,77.0,Romania,10,ODA,33.181724
+2015,82.0,Estonia,10,ODA,15.042702
+2015,83.0,Latvia,10,ODA,2.208621
+2015,84.0,Lithuania,10,ODA,9.80787
+2015,84.0,Lithuania,21,Non-export credit OOF,0.310842
+2015,104.0,Nordic Development Fund [NDF],10,ODA,39.186323
+2015,301.0,Canada,10,ODA,3014.538205
+2015,301.0,Canada,21,Non-export credit OOF,63.062662
+2015,302.0,United States,10,ODA,27402.328903
+2015,302.0,United States,21,Non-export credit OOF,687.035301
+2015,546.0,Israel,10,ODA,212.972513
+2015,552.0,Kuwait,10,ODA,631.714793
+2015,566.0,Saudi Arabia,10,ODA,889.34533
+2015,566.0,Saudi Arabia,21,Non-export credit OOF,4.95846
+2015,576.0,United Arab Emirates,10,ODA,4461.454707
+2015,576.0,United Arab Emirates,21,Non-export credit OOF,3836.425092
+2015,611.0,Azerbaijan,10,ODA,7.1196150000000005
+2015,613.0,Kazakhstan,10,ODA,34.025127
+2015,701.0,Japan,10,ODA,11991.625662
+2015,732.0,Chinese Taipei,10,ODA,225.04
+2015,742.0,Korea,10,ODA,1548.903213
+2015,742.0,Korea,21,Non-export credit OOF,12666.085249
+2015,764.0,Thailand,10,ODA,70.785606
+2015,765.0,Timor-Leste,10,ODA,4.0
+2015,801.0,Australia,10,ODA,2755.933763
+2015,801.0,Australia,21,Non-export credit OOF,283.292174
+2015,807.0,UNEP,10,ODA,125.17533
+2015,811.0,Global Environment Facility [GEF],10,ODA,813.068074
+2015,812.0,Montreal Protocol,10,ODA,45.29777
+2015,820.0,New Zealand,10,ODA,359.364842
+2015,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,19256.286297
+2015,905.0,International Development Association [IDA],10,ODA,13495.775009
+2015,906.0,Caribbean Development Bank [CarDB],10,ODA,57.146946
+2015,906.0,Caribbean Development Bank [CarDB],21,Non-export credit OOF,85.359417
+2015,909.0,Inter-American Development Bank [IDB],10,ODA,2125.91799
+2015,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,8938.00512
+2015,913.0,African Development Bank [AfDB],10,ODA,123.73198000000001
+2015,913.0,African Development Bank [AfDB],21,Non-export credit OOF,2376.11606
+2015,914.0,African Development Fund [AfDF],10,ODA,2158.55949
+2015,915.0,Asian Development Bank [AsDB],10,ODA,2699.53264
+2015,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,9784.57502
+2015,918.0,EU Institutions,10,ODA,15555.129846
+2015,918.0,EU Institutions,21,Non-export credit OOF,719.390403
+2015,921.0,Arab Fund (AFESD),10,ODA,618.374831
+2015,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,71.753133
+2015,928.0,World Health Organisation [WHO],10,ODA,663.96306
+2015,940.0,International Labour Organisation [ILO],10,ODA,285.73538
+2015,944.0,International Atomic Energy Agency [IAEA],10,ODA,63.679798999999996
+2015,948.0,UNECE,10,ODA,13.7605
+2015,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,395.472324
+2015,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,633.017829
+2015,953.0,Arab Bank for Economic Development in Africa [BADEA],10,ODA,125.568847
+2015,958.0,IMF Concessional Trust Funds,10,ODA,1471.76056
+2015,959.0,UNDP,10,ODA,420.346602
+2015,963.0,UNICEF,10,ODA,1401.925152
+2015,964.0,UNRWA,10,ODA,771.3794800000001
+2015,966.0,WFP,10,ODA,286.569263
+2015,967.0,UNHCR,10,ODA,460.72352500000005
+2015,971.0,UNAIDS,10,ODA,241.31748199999998
+2015,974.0,UNFPA,10,ODA,313.274106
+2015,976.0,Islamic Development Bank [IsDB],10,ODA,194.85716
+2015,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,1833.17372
+2015,978.0,OSCE,10,ODA,114.982264
+2015,988.0,IFAD,10,ODA,549.591084
+2015,988.0,IFAD,21,Non-export credit OOF,110.195125
+2015,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,5025.505066
+2015,1011.0,Climate Investment Funds [CIF],10,ODA,412.720357
+2015,1012.0,Adaptation Fund,10,ODA,43.485441
+2015,1013.0,Council of Europe Development Bank [CEB],10,ODA,54.140875
+2015,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,251.71741699999998
+2015,1016.0,Green Climate Fund [GCF],10,ODA,0.41232599999999997
+2015,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,1725.18831
+2015,1312.0,Global Fund,10,ODA,3239.2016
+2015,1313.0,Global Green Growth Institute [GGGI],10,ODA,9.067134
+2015,1601.0,Bill & Melinda Gates Foundation,30,Private Development Finance,3018.568947
+2015,1605.0,MetLife Foundation,30,Private Development Finance,15.913274
+2015,1608.0,IKEA Foundation,30,Private Development Finance,7.783642
+2015,1610.0,MAVA Foundation,30,Private Development Finance,15.600851
+2015,1612.0,H&M Foundation,30,Private Development Finance,14.125648
+2015,1613.0,Laudes Foundation,30,Private Development Finance,18.569505
+2015,1614.0,Charity Projects Ltd (Comic Relief),30,Private Development Finance,67.709042
+2015,1616.0,Gatsby Charitable Foundation,30,Private Development Finance,19.588471
+2015,1617.0,Conrad N. Hilton Foundation,30,Private Development Finance,44.632
+2015,1625.0,Arcus Foundation,30,Private Development Finance,14.272251
+2015,1637.0,Arcadia Fund,30,Private Development Finance,5.51
+2016,1.0,Austria,10,ODA,992.556187
+2016,1.0,Austria,21,Non-export credit OOF,252.752444
+2016,2.0,Belgium,10,ODA,1472.699844
+2016,2.0,Belgium,21,Non-export credit OOF,460.642893
+2016,3.0,Denmark,10,ODA,1785.498369
+2016,3.0,Denmark,21,Non-export credit OOF,52.763256
+2016,4.0,France,10,ODA,7426.01067
+2016,4.0,France,21,Non-export credit OOF,1039.681525
+2016,5.0,Germany,10,ODA,21719.15818
+2016,5.0,Germany,21,Non-export credit OOF,825.007882
+2016,6.0,Italy,10,ODA,2490.7257059999997
+2016,6.0,Italy,21,Non-export credit OOF,50.702247
+2016,7.0,Netherlands,10,ODA,3336.627844
+2016,8.0,Norway,10,ODA,3473.954796
+2016,8.0,Norway,21,Non-export credit OOF,187.026414
+2016,9.0,Portugal,10,ODA,174.040481
+2016,9.0,Portugal,21,Non-export credit OOF,1.9904899999999999
+2016,10.0,Sweden,10,ODA,3570.586104
+2016,10.0,Sweden,21,Non-export credit OOF,71.13836500000001
+2016,11.0,Switzerland,10,ODA,2853.978258
+2016,11.0,Switzerland,21,Non-export credit OOF,16.959242
+2016,12.0,United Kingdom,10,ODA,11668.653137
+2016,12.0,United Kingdom,21,Non-export credit OOF,1089.316982
+2016,18.0,Finland,10,ODA,638.792995
+2016,18.0,Finland,21,Non-export credit OOF,64.461162
+2016,20.0,Iceland,10,ODA,47.683533
+2016,21.0,Ireland,10,ODA,427.006169
+2016,22.0,Luxembourg,10,ODA,275.807023
+2016,40.0,Greece,10,ODA,159.149784
+2016,45.0,Malta,10,ODA,10.619219
+2016,50.0,Spain,10,ODA,2855.512537
+2016,50.0,Spain,21,Non-export credit OOF,18.702092
+2016,55.0,Türkiye,10,ODA,6687.5289999999995
+2016,61.0,Slovenia,10,ODA,27.875515
+2016,62.0,Croatia,10,ODA,3.47
+2016,68.0,Czechia,10,ODA,71.384727
+2016,69.0,Slovak Republic,10,ODA,25.732397
+2016,70.0,Liechtenstein,10,ODA,18.86
+2016,72.0,Bulgaria,10,ODA,12.21
+2016,75.0,Hungary,10,ODA,54.783164
+2016,76.0,Poland,10,ODA,174.523233
+2016,77.0,Romania,10,ODA,43.093444999999996
+2016,77.0,Romania,21,Non-export credit OOF,66.374677
+2016,82.0,Estonia,10,ODA,18.598082
+2016,83.0,Latvia,10,ODA,3.390335
+2016,84.0,Lithuania,10,ODA,13.876555
+2016,84.0,Lithuania,21,Non-export credit OOF,0.181172
+2016,104.0,Nordic Development Fund [NDF],10,ODA,39.242166
+2016,301.0,Canada,10,ODA,2703.958069
+2016,301.0,Canada,21,Non-export credit OOF,69.639354
+2016,302.0,United States,10,ODA,29257.921049
+2016,302.0,United States,21,Non-export credit OOF,431.795992
+2016,546.0,Israel,10,ODA,255.702675
+2016,552.0,Kuwait,10,ODA,1354.1132029999999
+2016,566.0,Saudi Arabia,10,ODA,1371.4625800000001
+2016,566.0,Saudi Arabia,21,Non-export credit OOF,7.70108
+2016,576.0,United Arab Emirates,10,ODA,4420.3966
+2016,576.0,United Arab Emirates,21,Non-export credit OOF,834.09973
+2016,611.0,Azerbaijan,10,ODA,4.140312
+2016,613.0,Kazakhstan,10,ODA,19.835684
+2016,701.0,Japan,10,ODA,13439.451531
+2016,732.0,Chinese Taipei,10,ODA,306.009
+2016,742.0,Korea,10,ODA,1622.447786
+2016,742.0,Korea,21,Non-export credit OOF,8964.473384
+2016,764.0,Thailand,10,ODA,69.72735
+2016,801.0,Australia,10,ODA,2293.659972
+2016,801.0,Australia,21,Non-export credit OOF,385.467772
+2016,807.0,UNEP,10,ODA,79.252269
+2016,811.0,Global Environment Facility [GEF],10,ODA,850.776517
+2016,820.0,New Zealand,10,ODA,362.08639999999997
+2016,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,17709.603592
+2016,905.0,International Development Association [IDA],10,ODA,12254.064811
+2016,906.0,Caribbean Development Bank [CarDB],10,ODA,33.7815
+2016,906.0,Caribbean Development Bank [CarDB],21,Non-export credit OOF,88.22735
+2016,909.0,Inter-American Development Bank [IDB],10,ODA,1673.08172
+2016,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,7768.03715
+2016,913.0,African Development Bank [AfDB],10,ODA,160.37526
+2016,913.0,African Development Bank [AfDB],21,Non-export credit OOF,4508.9895400000005
+2016,914.0,African Development Fund [AfDF],10,ODA,2131.81598
+2016,915.0,Asian Development Bank [AsDB],10,ODA,2742.794016
+2016,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,10032.293134
+2016,918.0,EU Institutions,10,ODA,18627.544468
+2016,918.0,EU Institutions,21,Non-export credit OOF,1685.989295
+2016,921.0,Arab Fund (AFESD),10,ODA,559.046235
+2016,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,54.046671
+2016,928.0,World Health Organisation [WHO],10,ODA,534.4956
+2016,940.0,International Labour Organisation [ILO],10,ODA,239.63412
+2016,944.0,International Atomic Energy Agency [IAEA],10,ODA,71.546049
+2016,948.0,UNECE,10,ODA,13.9718
+2016,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,472.41005
+2016,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,365.090064
+2016,958.0,IMF Concessional Trust Funds,10,ODA,940.6795
+2016,959.0,UNDP,10,ODA,383.552938
+2016,963.0,UNICEF,10,ODA,1444.791066
+2016,964.0,UNRWA,10,ODA,716.534039
+2016,966.0,WFP,10,ODA,307.692038
+2016,967.0,UNHCR,10,ODA,503.113815
+2016,971.0,UNAIDS,10,ODA,185.478783
+2016,974.0,UNFPA,10,ODA,257.992583
+2016,976.0,Islamic Development Bank [IsDB],10,ODA,347.54827
+2016,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,1627.61487
+2016,978.0,OSCE,10,ODA,112.443559
+2016,988.0,IFAD,10,ODA,598.979446
+2016,988.0,IFAD,21,Non-export credit OOF,108.757133
+2016,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,5799.054512
+2016,1011.0,Climate Investment Funds [CIF],10,ODA,51.315400000000004
+2016,1011.0,Climate Investment Funds [CIF],21,Non-export credit OOF,10.070879999999999
+2016,1012.0,Adaptation Fund,10,ODA,39.501287
+2016,1013.0,Council of Europe Development Bank [CEB],10,ODA,100.016552
+2016,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,234.454046
+2016,1016.0,Green Climate Fund [GCF],10,ODA,3.020374
+2016,1016.0,Green Climate Fund [GCF],21,Non-export credit OOF,5.493913
+2016,1023.0,World Tourism Organisation [UNWTO],10,ODA,13.001312
+2016,1024.0,Asian Infrastructure Investment Bank [AIIB],21,Non-export credit OOF,9.695424
+2016,1025.0,Center of Excellence in Finance [CEF],10,ODA,0.8846620000000001
+2016,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,1338.83949
+2016,1312.0,Global Fund,10,ODA,3598.36119
+2016,1313.0,Global Green Growth Institute [GGGI],10,ODA,23.953772
+2016,1601.0,Bill & Melinda Gates Foundation,30,Private Development Finance,3204.245294
+2016,1602.0,Dutch Postcode Lottery,30,Private Development Finance,221.236319
+2016,1603.0,Swedish Postcode Lottery,30,Private Development Finance,65.330446
+2016,1604.0,People's Postcode Lottery,30,Private Development Finance,21.444497000000002
+2016,1605.0,MetLife Foundation,30,Private Development Finance,17.736106
+2016,1608.0,IKEA Foundation,30,Private Development Finance,39.43393
+2016,1610.0,MAVA Foundation,30,Private Development Finance,13.328509
+2016,1612.0,H&M Foundation,30,Private Development Finance,14.319811
+2016,1613.0,Laudes Foundation,30,Private Development Finance,29.420336
+2016,1614.0,Charity Projects Ltd (Comic Relief),30,Private Development Finance,45.436824
+2016,1616.0,Gatsby Charitable Foundation,30,Private Development Finance,8.268118
+2016,1617.0,Conrad N. Hilton Foundation,30,Private Development Finance,44.19
+2016,1621.0,Michael & Susan Dell Foundation,30,Private Development Finance,23.892721
+2016,1625.0,Arcus Foundation,30,Private Development Finance,15.856511000000001
+2016,1630.0,World Diabetes Foundation,30,Private Development Finance,13.409294
+2016,1636.0,Jacobs Foundation,30,Private Development Finance,10.663203
+2016,1637.0,Arcadia Fund,30,Private Development Finance,18.49833
+2016,1638.0,Margaret A. Cargill Foundation,30,Private Development Finance,51.362294
+2016,1643.0,Open Society Foundations,30,Private Development Finance,203.943393
+2017,1.0,Austria,10,ODA,604.624919
+2017,1.0,Austria,21,Non-export credit OOF,178.071699
+2017,2.0,Belgium,10,ODA,1332.852312
+2017,2.0,Belgium,21,Non-export credit OOF,143.82749099999998
+2017,3.0,Denmark,10,ODA,1796.083174
+2017,3.0,Denmark,21,Non-export credit OOF,51.787849
+2017,3.0,Denmark,30,Private Development Finance,298.387839
+2017,4.0,France,10,ODA,8645.871705
+2017,4.0,France,21,Non-export credit OOF,969.709143
+2017,5.0,Germany,10,ODA,22650.223221
+2017,5.0,Germany,21,Non-export credit OOF,974.928304
+2017,6.0,Italy,10,ODA,3207.91068
+2017,6.0,Italy,21,Non-export credit OOF,110.701003
+2017,7.0,Netherlands,10,ODA,3638.6588229999998
+2017,8.0,Norway,10,ODA,3151.811232
+2017,8.0,Norway,21,Non-export credit OOF,159.883642
+2017,9.0,Portugal,10,ODA,166.353908
+2017,9.0,Portugal,21,Non-export credit OOF,1.63454
+2017,10.0,Sweden,10,ODA,3901.13836
+2017,10.0,Sweden,21,Non-export credit OOF,53.85233
+2017,11.0,Switzerland,10,ODA,2376.220271
+2017,11.0,Switzerland,21,Non-export credit OOF,132.277884
+2017,12.0,United Kingdom,10,ODA,11451.074891
+2017,18.0,Finland,10,ODA,608.387309
+2017,18.0,Finland,21,Non-export credit OOF,90.586179
+2017,20.0,Iceland,10,ODA,54.14256
+2017,21.0,Ireland,10,ODA,492.63373
+2017,22.0,Luxembourg,10,ODA,306.451145
+2017,40.0,Greece,10,ODA,84.671536
+2017,45.0,Malta,10,ODA,15.102598
+2017,50.0,Spain,10,ODA,1086.220515
+2017,50.0,Spain,21,Non-export credit OOF,67.686312
+2017,55.0,Türkiye,10,ODA,8400.444406999999
+2017,61.0,Slovenia,10,ODA,24.923088
+2017,62.0,Croatia,10,ODA,14.09407
+2017,68.0,Czechia,10,ODA,80.543796
+2017,69.0,Slovak Republic,10,ODA,35.440881
+2017,70.0,Liechtenstein,10,ODA,16.5
+2017,72.0,Bulgaria,10,ODA,9.879999999999999
+2017,75.0,Hungary,10,ODA,39.382823
+2017,76.0,Poland,10,ODA,248.207836
+2017,76.0,Poland,21,Non-export credit OOF,0.12309200000000001
+2017,77.0,Romania,10,ODA,38.934621
+2017,82.0,Estonia,10,ODA,20.343802
+2017,82.0,Estonia,21,Non-export credit OOF,0.067636
+2017,83.0,Latvia,10,ODA,4.526073
+2017,84.0,Lithuania,10,ODA,15.263757
+2017,104.0,Nordic Development Fund [NDF],10,ODA,42.736507
+2017,301.0,Canada,10,ODA,3173.4717689999998
+2017,301.0,Canada,21,Non-export credit OOF,78.576381
+2017,302.0,United States,10,ODA,30723.29473
+2017,302.0,United States,21,Non-export credit OOF,691.19055
+2017,546.0,Israel,10,ODA,388.132577
+2017,552.0,Kuwait,10,ODA,848.529687
+2017,552.0,Kuwait,21,Non-export credit OOF,0.394198
+2017,566.0,Saudi Arabia,10,ODA,1786.77672
+2017,566.0,Saudi Arabia,21,Non-export credit OOF,8.32089
+2017,576.0,United Arab Emirates,10,ODA,4303.1179999999995
+2017,611.0,Azerbaijan,10,ODA,5.35372
+2017,613.0,Kazakhstan,10,ODA,23.524251
+2017,701.0,Japan,10,ODA,15079.037822
+2017,732.0,Chinese Taipei,10,ODA,300.627
+2017,742.0,Korea,10,ODA,1702.248748
+2017,742.0,Korea,21,Non-export credit OOF,6565.730431
+2017,764.0,Thailand,10,ODA,60.343892000000004
+2017,801.0,Australia,10,ODA,2441.336303
+2017,801.0,Australia,21,Non-export credit OOF,195.638682
+2017,811.0,Global Environment Facility [GEF],10,ODA,445.185988
+2017,820.0,New Zealand,10,ODA,373.109287
+2017,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,16152.857031
+2017,905.0,International Development Association [IDA],10,ODA,14050.01322
+2017,906.0,Caribbean Development Bank [CarDB],10,ODA,30.01498
+2017,906.0,Caribbean Development Bank [CarDB],21,Non-export credit OOF,78.27557
+2017,909.0,Inter-American Development Bank [IDB],10,ODA,1349.543814
+2017,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,7556.663879
+2017,913.0,African Development Bank [AfDB],10,ODA,119.85349000000001
+2017,913.0,African Development Bank [AfDB],21,Non-export credit OOF,5190.53863
+2017,914.0,African Development Fund [AfDF],10,ODA,2561.08072
+2017,915.0,Asian Development Bank [AsDB],10,ODA,2557.230559
+2017,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,9187.832832
+2017,918.0,EU Institutions,10,ODA,18706.086281
+2017,918.0,EU Institutions,21,Non-export credit OOF,1357.560622
+2017,921.0,Arab Fund (AFESD),10,ODA,768.926985
+2017,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,58.369445
+2017,928.0,World Health Organisation [WHO],10,ODA,533.41836
+2017,932.0,Food and Agriculture Organisation [FAO],10,ODA,447.541741
+2017,940.0,International Labour Organisation [ILO],10,ODA,269.63566000000003
+2017,944.0,International Atomic Energy Agency [IAEA],10,ODA,76.394824
+2017,948.0,UNECE,10,ODA,14.34293
+2017,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,508.53225
+2017,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,583.14366
+2017,958.0,IMF Concessional Trust Funds,10,ODA,1211.394619
+2017,959.0,UNDP,10,ODA,351.850342
+2017,963.0,UNICEF,10,ODA,1524.4113300000001
+2017,964.0,UNRWA,10,ODA,892.903839
+2017,966.0,WFP,10,ODA,286.00275
+2017,967.0,UNHCR,10,ODA,521.56546
+2017,971.0,UNAIDS,10,ODA,165.218
+2017,974.0,UNFPA,10,ODA,215.099165
+2017,976.0,Islamic Development Bank [IsDB],10,ODA,338.98188
+2017,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,1957.66391
+2017,978.0,OSCE,10,ODA,108.921216
+2017,988.0,IFAD,10,ODA,684.464223
+2017,988.0,IFAD,21,Non-export credit OOF,131.876603
+2017,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,4373.501181
+2017,1011.0,Climate Investment Funds [CIF],10,ODA,345.066767
+2017,1012.0,Adaptation Fund,10,ODA,30.850441
+2017,1013.0,Council of Europe Development Bank [CEB],10,ODA,89.64586
+2017,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,204.708778
+2017,1015.0,Development Bank of Latin America [CAF],21,Non-export credit OOF,9057.0
+2017,1016.0,Green Climate Fund [GCF],10,ODA,63.445264
+2017,1016.0,Green Climate Fund [GCF],21,Non-export credit OOF,87.95168199999999
+2017,1019.0,IDB Invest,21,Non-export credit OOF,2010.756584
+2017,1020.0,Central Emergency Response Fund [CERF],10,ODA,418.20868
+2017,1023.0,World Tourism Organisation [UNWTO],10,ODA,12.698455000000001
+2017,1024.0,Asian Infrastructure Investment Bank [AIIB],21,Non-export credit OOF,715.16205
+2017,1025.0,Center of Excellence in Finance [CEF],10,ODA,0.901815
+2017,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,1679.15314
+2017,1312.0,Global Fund,10,ODA,4251.592904
+2017,1313.0,Global Green Growth Institute [GGGI],10,ODA,20.633213
+2017,1601.0,Bill & Melinda Gates Foundation,30,Private Development Finance,3386.025978
+2017,1602.0,Dutch Postcode Lottery,30,Private Development Finance,244.341105
+2017,1603.0,Swedish Postcode Lottery,30,Private Development Finance,70.258574
+2017,1604.0,People's Postcode Lottery,30,Private Development Finance,37.855783
+2017,1605.0,MetLife Foundation,30,Private Development Finance,16.61796
+2017,1606.0,Mastercard Foundation,30,Private Development Finance,288.54295
+2017,1608.0,IKEA Foundation,30,Private Development Finance,88.792097
+2017,1609.0,Van Leer Foundation,30,Private Development Finance,14.203587
+2017,1610.0,MAVA Foundation,30,Private Development Finance,70.520894
+2017,1611.0,Oak Foundation,30,Private Development Finance,111.198688
+2017,1612.0,H&M Foundation,30,Private Development Finance,17.740697
+2017,1613.0,Laudes Foundation,30,Private Development Finance,29.692257
+2017,1614.0,Charity Projects Ltd (Comic Relief),30,Private Development Finance,49.893217
+2017,1615.0,Children's Investment Fund Foundation,30,Private Development Finance,207.111682
+2017,1616.0,Gatsby Charitable Foundation,30,Private Development Finance,12.11177
+2017,1617.0,Conrad N. Hilton Foundation,30,Private Development Finance,50.5825
+2017,1618.0,David and Lucile Packard Foundation,30,Private Development Finance,118.626996
+2017,1619.0,John D. and Catherine T. MacArthur Foundation,30,Private Development Finance,80.304199
+2017,1620.0,Carnegie Corporation of New York,30,Private Development Finance,24.1602
+2017,1621.0,Michael & Susan Dell Foundation,30,Private Development Finance,31.258364
+2017,1622.0,"Omidyar Network Fund, Inc.",30,Private Development Finance,57.107902
+2017,1624.0,William and Flora Hewlett Foundation,30,Private Development Finance,185.15972
+2017,1625.0,Arcus Foundation,30,Private Development Finance,15.439617
+2017,1626.0,Gordon and Betty Moore Foundation,30,Private Development Finance,49.552984
+2017,1627.0,Ford Foundation,30,Private Development Finance,244.348737
+2017,1628.0,Wellcome Trust,30,Private Development Finance,254.252388
+2017,1630.0,World Diabetes Foundation,30,Private Development Finance,14.666245
+2017,1632.0,Citi Foundation,30,Private Development Finance,24.879
+2017,1636.0,Jacobs Foundation,30,Private Development Finance,20.432760000000002
+2017,1637.0,Arcadia Fund,30,Private Development Finance,45.648178
+2017,1638.0,Margaret A. Cargill Foundation,30,Private Development Finance,46.836742
+2017,1639.0,La Caixa Banking Foundation,30,Private Development Finance,13.754466
+2017,1640.0,Bloomberg Family Foundation,30,Private Development Finance,180.7769
+2017,1641.0,Susan T. Buffett Foundation,30,Private Development Finance,260.36089499999997
+2017,1642.0,Howard G. Buffett Foundation,30,Private Development Finance,138.643527
+2017,1643.0,Open Society Foundations,30,Private Development Finance,226.820517
+2017,1644.0,Fondation Botnar,30,Private Development Finance,24.450908000000002
+2017,1648.0,Leona M. and Harry B. Helmsley Charitable Trust,30,Private Development Finance,56.925275
+2018,1.0,Austria,10,ODA,491.810747
+2018,1.0,Austria,21,Non-export credit OOF,222.79048600000002
+2018,2.0,Belgium,10,ODA,1350.824146
+2018,2.0,Belgium,21,Non-export credit OOF,60.995162
+2018,3.0,Denmark,10,ODA,1852.884112
+2018,3.0,Denmark,21,Non-export credit OOF,145.608195
+2018,3.0,Denmark,30,Private Development Finance,353.481231
+2018,4.0,France,10,ODA,9542.743289
+2018,4.0,France,21,Non-export credit OOF,868.217134
+2018,5.0,Germany,10,ODA,22424.76629
+2018,5.0,Germany,21,Non-export credit OOF,1235.852568
+2018,6.0,Italy,10,ODA,2243.531264
+2018,6.0,Italy,21,Non-export credit OOF,75.067961
+2018,7.0,Netherlands,10,ODA,3833.318225
+2018,8.0,Norway,10,ODA,3270.660664
+2018,8.0,Norway,21,Non-export credit OOF,629.514626
+2018,9.0,Portugal,10,ODA,187.232639
+2018,9.0,Portugal,21,Non-export credit OOF,0.059011
+2018,10.0,Sweden,10,ODA,3953.3665650000003
+2018,10.0,Sweden,21,Non-export credit OOF,94.175068
+2018,11.0,Switzerland,10,ODA,2370.353042
+2018,11.0,Switzerland,21,Non-export credit OOF,82.321166
+2018,12.0,United Kingdom,10,ODA,12479.337049
+2018,12.0,United Kingdom,21,Non-export credit OOF,1092.840082
+2018,18.0,Finland,10,ODA,494.448257
+2018,18.0,Finland,21,Non-export credit OOF,131.642216
+2018,20.0,Iceland,10,ODA,61.124734
+2018,21.0,Ireland,10,ODA,530.322026
+2018,22.0,Luxembourg,10,ODA,351.509795
+2018,30.0,Cyprus,10,ODA,3.318847
+2018,40.0,Greece,10,ODA,38.581449
+2018,45.0,Malta,10,ODA,20.516557
+2018,50.0,Spain,10,ODA,1095.304846
+2018,50.0,Spain,21,Non-export credit OOF,140.213629
+2018,55.0,Türkiye,10,ODA,8433.02261
+2018,55.0,Türkiye,21,Non-export credit OOF,300.0
+2018,61.0,Slovenia,10,ODA,29.279388
+2018,61.0,Slovenia,21,Non-export credit OOF,5.303336
+2018,62.0,Croatia,10,ODA,16.665545
+2018,68.0,Czechia,10,ODA,100.167487
+2018,69.0,Slovak Republic,10,ODA,32.35545
+2018,70.0,Liechtenstein,10,ODA,18.71
+2018,72.0,Bulgaria,10,ODA,9.75
+2018,75.0,Hungary,10,ODA,129.115374
+2018,76.0,Poland,10,ODA,264.815758
+2018,76.0,Poland,21,Non-export credit OOF,23.816239
+2018,77.0,Romania,10,ODA,59.240190999999996
+2018,82.0,Estonia,10,ODA,21.676181
+2018,83.0,Latvia,10,ODA,4.91543
+2018,84.0,Lithuania,10,ODA,12.060402999999999
+2018,104.0,Nordic Development Fund [NDF],10,ODA,33.587512
+2018,301.0,Canada,10,ODA,3542.315293
+2018,301.0,Canada,21,Non-export credit OOF,11.947381
+2018,302.0,United States,10,ODA,30667.65902
+2018,302.0,United States,21,Non-export credit OOF,265.49837
+2018,546.0,Israel,10,ODA,315.382699
+2018,552.0,Kuwait,10,ODA,2030.855677
+2018,566.0,Saudi Arabia,10,ODA,5031.901936
+2018,576.0,United Arab Emirates,10,ODA,4162.62759
+2018,576.0,United Arab Emirates,21,Non-export credit OOF,1363.33333
+2018,611.0,Azerbaijan,10,ODA,5.338202
+2018,613.0,Kazakhstan,10,ODA,33.415915
+2018,701.0,Japan,10,ODA,13284.632207999999
+2018,732.0,Chinese Taipei,10,ODA,265.335378
+2018,742.0,Korea,10,ODA,1910.001984
+2018,742.0,Korea,21,Non-export credit OOF,7899.899126
+2018,764.0,Thailand,10,ODA,61.835479
+2018,801.0,Australia,10,ODA,2553.579766
+2018,801.0,Australia,21,Non-export credit OOF,199.480777
+2018,811.0,Global Environment Facility [GEF],10,ODA,454.45927
+2018,811.0,Global Environment Facility [GEF],21,Non-export credit OOF,3.489131
+2018,820.0,New Zealand,10,ODA,462.650011
+2018,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,17051.865966
+2018,905.0,International Development Association [IDA],10,ODA,15887.942547999999
+2018,906.0,Caribbean Development Bank [CarDB],10,ODA,36.9209
+2018,906.0,Caribbean Development Bank [CarDB],21,Non-export credit OOF,25.245540000000002
+2018,909.0,Inter-American Development Bank [IDB],10,ODA,1149.452189
+2018,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,8097.036987
+2018,913.0,African Development Bank [AfDB],10,ODA,98.46292100000001
+2018,913.0,African Development Bank [AfDB],21,Non-export credit OOF,4265.77073
+2018,914.0,African Development Fund [AfDF],10,ODA,2112.811017
+2018,915.0,Asian Development Bank [AsDB],10,ODA,2288.568894
+2018,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,11893.322837
+2018,918.0,EU Institutions,10,ODA,19664.049142
+2018,918.0,EU Institutions,21,Non-export credit OOF,1756.696944
+2018,921.0,Arab Fund (AFESD),10,ODA,564.640612
+2018,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,125.55935
+2018,928.0,World Health Organisation [WHO],10,ODA,520.403926
+2018,932.0,Food and Agriculture Organisation [FAO],10,ODA,396.862549
+2018,940.0,International Labour Organisation [ILO],10,ODA,226.513458
+2018,944.0,International Atomic Energy Agency [IAEA],10,ODA,89.624252
+2018,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,525.102188
+2018,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,884.468156
+2018,958.0,IMF Concessional Trust Funds,10,ODA,1214.036868
+2018,959.0,UNDP,10,ODA,304.497378
+2018,963.0,UNICEF,10,ODA,1499.195609
+2018,964.0,UNRWA,10,ODA,759.275668
+2018,966.0,WFP,10,ODA,185.668493
+2018,967.0,UNHCR,10,ODA,479.577811
+2018,971.0,UNAIDS,10,ODA,189.450498
+2018,974.0,UNFPA,10,ODA,211.5643
+2018,976.0,Islamic Development Bank [IsDB],10,ODA,165.958244
+2018,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,2101.380636
+2018,978.0,OSCE,10,ODA,115.681494
+2018,988.0,IFAD,10,ODA,645.475238
+2018,988.0,IFAD,21,Non-export credit OOF,166.901396
+2018,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,5846.685948
+2018,1011.0,Climate Investment Funds [CIF],10,ODA,407.685609
+2018,1012.0,Adaptation Fund,10,ODA,49.288581
+2018,1013.0,Council of Europe Development Bank [CEB],10,ODA,42.425352000000004
+2018,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,294.165473
+2018,1015.0,Development Bank of Latin America [CAF],21,Non-export credit OOF,8920.0
+2018,1016.0,Green Climate Fund [GCF],10,ODA,134.639506
+2018,1016.0,Green Climate Fund [GCF],21,Non-export credit OOF,172.624461
+2018,1020.0,Central Emergency Response Fund [CERF],10,ODA,500.50826
+2018,1023.0,World Tourism Organisation [UNWTO],10,ODA,9.752626000000001
+2018,1024.0,Asian Infrastructure Investment Bank [AIIB],10,ODA,0.223039
+2018,1024.0,Asian Infrastructure Investment Bank [AIIB],21,Non-export credit OOF,381.304468
+2018,1025.0,Center of Excellence in Finance [CEF],10,ODA,1.180223
+2018,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,1564.564986
+2018,1312.0,Global Fund,10,ODA,3282.929513
+2018,1313.0,Global Green Growth Institute [GGGI],10,ODA,18.570610000000002
+2018,1601.0,Bill & Melinda Gates Foundation,30,Private Development Finance,3446.050946
+2018,1602.0,Dutch Postcode Lottery,30,Private Development Finance,248.553056
+2018,1603.0,Swedish Postcode Lottery,30,Private Development Finance,70.377787
+2018,1604.0,People's Postcode Lottery,30,Private Development Finance,47.342933
+2018,1605.0,MetLife Foundation,30,Private Development Finance,11.511017
+2018,1606.0,Mastercard Foundation,30,Private Development Finance,263.336143
+2018,1608.0,IKEA Foundation,30,Private Development Finance,118.93213
+2018,1609.0,Van Leer Foundation,30,Private Development Finance,14.32643
+2018,1610.0,MAVA Foundation,30,Private Development Finance,58.051692
+2018,1611.0,Oak Foundation,30,Private Development Finance,211.116613
+2018,1612.0,H&M Foundation,30,Private Development Finance,16.293878
+2018,1613.0,Laudes Foundation,30,Private Development Finance,44.40389
+2018,1614.0,Charity Projects Ltd (Comic Relief),30,Private Development Finance,36.04845
+2018,1615.0,Children's Investment Fund Foundation,30,Private Development Finance,236.288367
+2018,1616.0,Gatsby Charitable Foundation,30,Private Development Finance,13.788183
+2018,1617.0,Conrad N. Hilton Foundation,30,Private Development Finance,46.413000000000004
+2018,1618.0,David and Lucile Packard Foundation,30,Private Development Finance,122.892377
+2018,1619.0,John D. and Catherine T. MacArthur Foundation,30,Private Development Finance,84.515294
+2018,1620.0,Carnegie Corporation of New York,30,Private Development Finance,18.4674
+2018,1621.0,Michael & Susan Dell Foundation,30,Private Development Finance,31.373737
+2018,1622.0,"Omidyar Network Fund, Inc.",30,Private Development Finance,52.763308
+2018,1623.0,Rockefeller Foundation,30,Private Development Finance,107.176771
+2018,1624.0,William and Flora Hewlett Foundation,30,Private Development Finance,209.023218
+2018,1625.0,Arcus Foundation,30,Private Development Finance,15.912738
+2018,1626.0,Gordon and Betty Moore Foundation,30,Private Development Finance,115.243276
+2018,1627.0,Ford Foundation,30,Private Development Finance,225.701962
+2018,1628.0,Wellcome Trust,30,Private Development Finance,275.309276
+2018,1630.0,World Diabetes Foundation,30,Private Development Finance,11.292349
+2018,1631.0,McKnight Foundation,30,Private Development Finance,9.284179
+2018,1632.0,Citi Foundation,30,Private Development Finance,27.635
+2018,1633.0,LEGO Foundation,30,Private Development Finance,21.016807
+2018,1634.0,Norwegian Postcode Lottery,30,Private Development Finance,0.486853
+2018,1636.0,Jacobs Foundation,30,Private Development Finance,16.071021000000002
+2018,1637.0,Arcadia Fund,30,Private Development Finance,53.019941
+2018,1638.0,Margaret A. Cargill Foundation,30,Private Development Finance,48.051715
+2018,1639.0,La Caixa Banking Foundation,30,Private Development Finance,30.283893
+2018,1640.0,Bloomberg Family Foundation,30,Private Development Finance,212.731617
+2018,1641.0,Susan T. Buffett Foundation,30,Private Development Finance,307.175623
+2018,1642.0,Howard G. Buffett Foundation,30,Private Development Finance,101.806397
+2018,1643.0,Open Society Foundations,30,Private Development Finance,261.251536
+2018,1644.0,Fondation Botnar,30,Private Development Finance,46.310434
+2018,1648.0,Leona M. and Harry B. Helmsley Charitable Trust,30,Private Development Finance,42.009687
+2019,1.0,Austria,10,ODA,453.441381
+2019,1.0,Austria,21,Non-export credit OOF,317.98870999999997
+2019,2.0,Belgium,10,ODA,1148.92921
+2019,2.0,Belgium,21,Non-export credit OOF,201.691612
+2019,3.0,Denmark,10,ODA,1817.27252
+2019,3.0,Denmark,21,Non-export credit OOF,125.768579
+2019,3.0,Denmark,30,Private Development Finance,300.345424
+2019,4.0,France,10,ODA,9661.337112
+2019,4.0,France,21,Non-export credit OOF,1113.157935
+2019,5.0,Germany,10,ODA,21283.897292
+2019,5.0,Germany,21,Non-export credit OOF,1278.94119
+2019,6.0,Italy,10,ODA,1466.686325
+2019,6.0,Italy,21,Non-export credit OOF,34.397075
+2019,7.0,Netherlands,10,ODA,3440.264013
+2019,8.0,Norway,10,ODA,3341.782375
+2019,8.0,Norway,21,Non-export credit OOF,360.959141
+2019,9.0,Portugal,10,ODA,177.00244
+2019,9.0,Portugal,21,Non-export credit OOF,9.155938
+2019,10.0,Sweden,10,ODA,3541.142226
+2019,10.0,Sweden,21,Non-export credit OOF,88.799492
+2019,11.0,Switzerland,10,ODA,2407.272732
+2019,11.0,Switzerland,21,Non-export credit OOF,90.245809
+2019,12.0,United Kingdom,10,ODA,13498.55268
+2019,12.0,United Kingdom,21,Non-export credit OOF,1387.093584
+2019,18.0,Finland,10,ODA,604.458102
+2019,18.0,Finland,21,Non-export credit OOF,119.763616
+2019,20.0,Iceland,10,ODA,51.350164
+2019,21.0,Ireland,10,ODA,568.237399
+2019,22.0,Luxembourg,10,ODA,366.822374
+2019,30.0,Cyprus,10,ODA,6.392008
+2019,40.0,Greece,10,ODA,142.671956
+2019,40.0,Greece,21,Non-export credit OOF,1.470353
+2019,45.0,Malta,10,ODA,32.191529
+2019,50.0,Spain,10,ODA,1080.491854
+2019,50.0,Spain,21,Non-export credit OOF,38.901727
+2019,55.0,Türkiye,10,ODA,8469.041948
+2019,61.0,Slovenia,10,ODA,31.082032
+2019,62.0,Croatia,10,ODA,20.362753
+2019,68.0,Czechia,10,ODA,95.848178
+2019,69.0,Slovak Republic,10,ODA,21.524309
+2019,70.0,Liechtenstein,10,ODA,19.23
+2019,72.0,Bulgaria,10,ODA,8.82
+2019,75.0,Hungary,10,ODA,158.560872
+2019,76.0,Poland,10,ODA,234.060833
+2019,76.0,Poland,21,Non-export credit OOF,7.127087
+2019,77.0,Romania,10,ODA,64.54088
+2019,82.0,Estonia,10,ODA,16.879131
+2019,83.0,Latvia,10,ODA,4.461858
+2019,84.0,Lithuania,10,ODA,12.007716
+2019,104.0,Nordic Development Fund [NDF],10,ODA,31.011767
+2019,301.0,Canada,10,ODA,3246.496429
+2019,301.0,Canada,21,Non-export credit OOF,146.31183199999998
+2019,302.0,United States,10,ODA,29544.039506
+2019,302.0,United States,21,Non-export credit OOF,641.775645
+2019,546.0,Israel,10,ODA,239.319591
+2019,552.0,Kuwait,10,ODA,729.785046
+2019,561.0,Qatar,10,ODA,526.110208
+2019,566.0,Saudi Arabia,10,ODA,2246.720007
+2019,576.0,United Arab Emirates,10,ODA,2610.511157
+2019,576.0,United Arab Emirates,21,Non-export credit OOF,3599.883175
+2019,611.0,Azerbaijan,10,ODA,6.422812
+2019,613.0,Kazakhstan,10,ODA,26.731559
+2019,701.0,Japan,10,ODA,14679.847722
+2019,732.0,Chinese Taipei,10,ODA,258.245619
+2019,742.0,Korea,10,ODA,2045.88928
+2019,742.0,Korea,21,Non-export credit OOF,2558.505516
+2019,764.0,Thailand,10,ODA,73.37371399999999
+2019,801.0,Australia,10,ODA,2234.229358
+2019,801.0,Australia,21,Non-export credit OOF,523.125741
+2019,811.0,Global Environment Facility [GEF],10,ODA,280.756171
+2019,811.0,Global Environment Facility [GEF],21,Non-export credit OOF,8.314066
+2019,820.0,New Zealand,10,ODA,455.373152
+2019,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,19472.877941
+2019,905.0,International Development Association [IDA],10,ODA,18389.289398
+2019,906.0,Caribbean Development Bank [CarDB],10,ODA,180.48346
+2019,909.0,Inter-American Development Bank [IDB],10,ODA,825.853774
+2019,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,8169.864421
+2019,913.0,African Development Bank [AfDB],10,ODA,103.583114
+2019,913.0,African Development Bank [AfDB],21,Non-export credit OOF,3494.216959
+2019,914.0,African Development Fund [AfDF],10,ODA,1943.661441
+2019,915.0,Asian Development Bank [AsDB],10,ODA,3208.279736
+2019,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,13508.978646
+2019,918.0,EU Institutions,10,ODA,17719.558223
+2019,918.0,EU Institutions,21,Non-export credit OOF,1410.443989
+2019,921.0,Arab Fund (AFESD),10,ODA,722.296055
+2019,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,146.940444
+2019,928.0,World Health Organisation [WHO],10,ODA,547.805263
+2019,932.0,Food and Agriculture Organisation [FAO],10,ODA,455.029436
+2019,940.0,International Labour Organisation [ILO],10,ODA,280.722783
+2019,944.0,International Atomic Energy Agency [IAEA],10,ODA,82.735012
+2019,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,363.989685
+2019,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,808.958721
+2019,958.0,IMF Concessional Trust Funds,10,ODA,1472.842336
+2019,959.0,UNDP,10,ODA,371.953333
+2019,963.0,UNICEF,10,ODA,1023.476
+2019,964.0,UNRWA,10,ODA,765.022
+2019,966.0,WFP,10,ODA,308.90718
+2019,967.0,UNHCR,10,ODA,669.032424
+2019,971.0,UNAIDS,10,ODA,135.266862
+2019,974.0,UNFPA,10,ODA,416.650866
+2019,976.0,Islamic Development Bank [IsDB],10,ODA,306.681019
+2019,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,2378.486817
+2019,978.0,OSCE,10,ODA,111.353197
+2019,988.0,IFAD,10,ODA,732.319186
+2019,988.0,IFAD,21,Non-export credit OOF,154.492728
+2019,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,5654.593248
+2019,1011.0,Climate Investment Funds [CIF],10,ODA,66.774313
+2019,1011.0,Climate Investment Funds [CIF],21,Non-export credit OOF,31.684188
+2019,1012.0,Adaptation Fund,10,ODA,63.859324
+2019,1013.0,Council of Europe Development Bank [CEB],10,ODA,87.172282
+2019,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,321.71610699999997
+2019,1015.0,Development Bank of Latin America [CAF],21,Non-export credit OOF,8213.0
+2019,1016.0,Green Climate Fund [GCF],10,ODA,257.19461
+2019,1016.0,Green Climate Fund [GCF],21,Non-export credit OOF,247.593379
+2019,1020.0,Central Emergency Response Fund [CERF],10,ODA,537.669991
+2019,1023.0,World Tourism Organisation [UNWTO],10,ODA,8.310646
+2019,1024.0,Asian Infrastructure Investment Bank [AIIB],10,ODA,1.657535
+2019,1024.0,Asian Infrastructure Investment Bank [AIIB],21,Non-export credit OOF,476.778231
+2019,1025.0,Center of Excellence in Finance [CEF],10,ODA,1.119444
+2019,1037.0,International Investment Bank [IIB],21,Non-export credit OOF,62.824889
+2019,1038.0,UN Institute for Disarmament Research [UNIDIR],10,ODA,0.18404900000000002
+2019,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,2081.161404
+2019,1312.0,Global Fund,10,ODA,3583.303761
+2019,1313.0,Global Green Growth Institute [GGGI],10,ODA,8.305917
+2019,1601.0,Bill & Melinda Gates Foundation,30,Private Development Finance,3599.823173
+2019,1602.0,Dutch Postcode Lottery,30,Private Development Finance,237.934734
+2019,1603.0,Swedish Postcode Lottery,30,Private Development Finance,55.777872
+2019,1604.0,People's Postcode Lottery,30,Private Development Finance,57.298961
+2019,1605.0,MetLife Foundation,30,Private Development Finance,14.040657
+2019,1606.0,Mastercard Foundation,30,Private Development Finance,298.269151
+2019,1608.0,IKEA Foundation,30,Private Development Finance,192.450891
+2019,1609.0,Van Leer Foundation,30,Private Development Finance,14.263397
+2019,1610.0,MAVA Foundation,30,Private Development Finance,39.759232
+2019,1611.0,Oak Foundation,30,Private Development Finance,136.253087
+2019,1612.0,H&M Foundation,30,Private Development Finance,16.547619
+2019,1613.0,Laudes Foundation,30,Private Development Finance,45.566574
+2019,1614.0,Charity Projects Ltd (Comic Relief),30,Private Development Finance,46.287848
+2019,1615.0,Children's Investment Fund Foundation,30,Private Development Finance,271.607701
+2019,1616.0,Gatsby Charitable Foundation,30,Private Development Finance,18.854008
+2019,1617.0,Conrad N. Hilton Foundation,30,Private Development Finance,42.255
+2019,1618.0,David and Lucile Packard Foundation,30,Private Development Finance,119.809653
+2019,1619.0,John D. and Catherine T. MacArthur Foundation,30,Private Development Finance,109.026657
+2019,1620.0,Carnegie Corporation of New York,30,Private Development Finance,23.965
+2019,1621.0,Michael & Susan Dell Foundation,30,Private Development Finance,35.330546
+2019,1622.0,"Omidyar Network Fund, Inc.",30,Private Development Finance,58.937276
+2019,1623.0,Rockefeller Foundation,30,Private Development Finance,110.565889
+2019,1624.0,William and Flora Hewlett Foundation,30,Private Development Finance,123.348012
+2019,1625.0,Arcus Foundation,30,Private Development Finance,15.103247
+2019,1626.0,Gordon and Betty Moore Foundation,30,Private Development Finance,48.195301
+2019,1627.0,Ford Foundation,30,Private Development Finance,196.155417
+2019,1628.0,Wellcome Trust,30,Private Development Finance,326.930027
+2019,1629.0,UBS Optimus Foundation,30,Private Development Finance,89.28633
+2019,1630.0,World Diabetes Foundation,30,Private Development Finance,16.678197
+2019,1631.0,McKnight Foundation,30,Private Development Finance,8.752
+2019,1632.0,Citi Foundation,30,Private Development Finance,26.920004
+2019,1633.0,LEGO Foundation,30,Private Development Finance,44.49486
+2019,1634.0,Norwegian Postcode Lottery,30,Private Development Finance,2.031648
+2019,1636.0,Jacobs Foundation,30,Private Development Finance,17.359865
+2019,1637.0,Arcadia Fund,30,Private Development Finance,55.050779
+2019,1638.0,Margaret A. Cargill Foundation,30,Private Development Finance,44.170194
+2019,1639.0,La Caixa Banking Foundation,30,Private Development Finance,41.104352
+2019,1640.0,Bloomberg Family Foundation,30,Private Development Finance,142.931498
+2019,1641.0,Susan T. Buffett Foundation,30,Private Development Finance,345.134749
+2019,1642.0,Howard G. Buffett Foundation,30,Private Development Finance,155.534457
+2019,1643.0,Open Society Foundations,30,Private Development Finance,263.977896
+2019,1644.0,Fondation Botnar,30,Private Development Finance,40.132677
+2019,1648.0,Leona M. and Harry B. Helmsley Charitable Trust,30,Private Development Finance,56.068977000000004
+2020,1.0,Austria,10,ODA,568.210514
+2020,1.0,Austria,21,Non-export credit OOF,217.028855
+2020,2.0,Belgium,10,ODA,1175.94785
+2020,2.0,Belgium,21,Non-export credit OOF,126.795145
+2020,3.0,Denmark,10,ODA,1718.504788
+2020,3.0,Denmark,21,Non-export credit OOF,116.469369
+2020,4.0,France,10,ODA,13088.231954
+2020,4.0,France,21,Non-export credit OOF,965.086773
+2020,5.0,Germany,10,ODA,25878.788129
+2020,5.0,Germany,21,Non-export credit OOF,1512.771133
+2020,6.0,Italy,10,ODA,1400.324988
+2020,6.0,Italy,21,Non-export credit OOF,117.378987
+2020,7.0,Netherlands,10,ODA,3748.293802
+2020,8.0,Norway,10,ODA,3140.699087
+2020,8.0,Norway,21,Non-export credit OOF,385.112229
+2020,9.0,Portugal,10,ODA,230.095382
+2020,9.0,Portugal,21,Non-export credit OOF,22.243583
+2020,10.0,Sweden,10,ODA,3610.789259
+2020,10.0,Sweden,21,Non-export credit OOF,85.700992
+2020,11.0,Switzerland,10,ODA,2872.824953
+2020,11.0,Switzerland,21,Non-export credit OOF,67.954032
+2020,12.0,United Kingdom,10,ODA,12381.006246
+2020,12.0,United Kingdom,21,Non-export credit OOF,1593.088104
+2020,18.0,Finland,10,ODA,656.939679
+2020,18.0,Finland,21,Non-export credit OOF,147.825875
+2020,20.0,Iceland,10,ODA,46.134828999999996
+2020,21.0,Ireland,10,ODA,521.951298
+2020,22.0,Luxembourg,10,ODA,314.805476
+2020,30.0,Cyprus,10,ODA,2.650518
+2020,40.0,Greece,10,ODA,84.77698399999998
+2020,45.0,Malta,10,ODA,47.160037
+2020,50.0,Spain,10,ODA,1036.169353
+2020,55.0,Türkiye,10,ODA,8032.579143
+2020,61.0,Slovenia,10,ODA,31.154374999999998
+2020,61.0,Slovenia,21,Non-export credit OOF,0.115394
+2020,62.0,Croatia,10,ODA,19.335253
+2020,68.0,Czechia,10,ODA,72.701704
+2020,69.0,Slovak Republic,10,ODA,37.34696
+2020,70.0,Liechtenstein,10,ODA,18.91
+2020,72.0,Bulgaria,10,ODA,9.209999999999999
+2020,75.0,Hungary,10,ODA,225.928888
+2020,76.0,Poland,10,ODA,233.06418299999999
+2020,77.0,Romania,10,ODA,75.296572
+2020,82.0,Estonia,10,ODA,16.683546
+2020,83.0,Latvia,10,ODA,4.975033
+2020,84.0,Lithuania,10,ODA,11.90099
+2020,104.0,Nordic Development Fund [NDF],10,ODA,59.640194
+2020,301.0,Canada,10,ODA,3917.174057
+2020,301.0,Canada,21,Non-export credit OOF,79.776469
+2020,302.0,United States,10,ODA,30312.462199
+2020,302.0,United States,21,Non-export credit OOF,909.379929
+2020,546.0,Israel,10,ODA,241.594572
+2020,552.0,Kuwait,10,ODA,756.751494
+2020,561.0,Qatar,10,ODA,541.765566
+2020,566.0,Saudi Arabia,10,ODA,1898.926107
+2020,576.0,United Arab Emirates,10,ODA,1879.67376
+2020,576.0,United Arab Emirates,21,Non-export credit OOF,14.797169
+2020,611.0,Azerbaijan,10,ODA,33.287837
+2020,613.0,Kazakhstan,10,ODA,30.185923
+2020,701.0,Japan,10,ODA,16887.0694
+2020,732.0,Chinese Taipei,10,ODA,213.617513
+2020,742.0,Korea,10,ODA,1925.232026
+2020,742.0,Korea,21,Non-export credit OOF,2152.479471
+2020,764.0,Thailand,10,ODA,54.72761
+2020,801.0,Australia,10,ODA,2318.951991
+2020,801.0,Australia,21,Non-export credit OOF,25.721187
+2020,811.0,Global Environment Facility [GEF],10,ODA,401.522193
+2020,820.0,New Zealand,10,ODA,433.406015
+2020,820.0,New Zealand,21,Non-export credit OOF,20.27
+2020,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,24903.429509999998
+2020,905.0,International Development Association [IDA],10,ODA,21508.267447
+2020,905.0,International Development Association [IDA],21,Non-export credit OOF,928.065963
+2020,906.0,Caribbean Development Bank [CarDB],10,ODA,158.738
+2020,909.0,Inter-American Development Bank [IDB],10,ODA,1042.485241
+2020,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,10046.109496
+2020,910.0,Central American Bank for Economic Integration [CABEI],10,ODA,476.964
+2020,910.0,Central American Bank for Economic Integration [CABEI],21,Non-export credit OOF,1252.2350979999999
+2020,913.0,African Development Bank [AfDB],10,ODA,57.958188
+2020,913.0,African Development Bank [AfDB],21,Non-export credit OOF,4718.884626
+2020,914.0,African Development Fund [AfDF],10,ODA,2851.176963
+2020,915.0,Asian Development Bank [AsDB],10,ODA,4487.240323
+2020,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,19352.712621
+2020,918.0,EU Institutions,10,ODA,23977.103277
+2020,918.0,EU Institutions,21,Non-export credit OOF,953.097219
+2020,921.0,Arab Fund (AFESD),10,ODA,618.354025
+2020,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,179.78175
+2020,928.0,World Health Organisation [WHO],10,ODA,275.075169
+2020,932.0,Food and Agriculture Organisation [FAO],10,ODA,425.225933
+2020,940.0,International Labour Organisation [ILO],10,ODA,216.636157
+2020,944.0,International Atomic Energy Agency [IAEA],10,ODA,66.848907
+2020,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,717.714133
+2020,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,431.800753
+2020,958.0,IMF Concessional Trust Funds,10,ODA,9998.09799
+2020,959.0,UNDP,10,ODA,400.846458
+2020,962.0,United Nations Conference on Trade and Development [UNCTAD],10,ODA,2.3571
+2020,963.0,UNICEF,10,ODA,973.501
+2020,964.0,UNRWA,10,ODA,774.5819779999999
+2020,966.0,WFP,10,ODA,323.9818
+2020,967.0,UNHCR,10,ODA,629.619101
+2020,971.0,UNAIDS,10,ODA,128.955648
+2020,974.0,UNFPA,10,ODA,429.85364
+2020,976.0,Islamic Development Bank [IsDB],10,ODA,302.159793
+2020,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,2186.307656
+2020,978.0,OSCE,10,ODA,70.847267
+2020,981.0,Black Sea Trade & Development Bank [BSTDB],21,Non-export credit OOF,439.958353
+2020,988.0,IFAD,10,ODA,662.652707
+2020,988.0,IFAD,21,Non-export credit OOF,143.156166
+2020,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,6157.823045
+2020,1011.0,Climate Investment Funds [CIF],10,ODA,600.0840460000001
+2020,1012.0,Adaptation Fund,10,ODA,76.677937
+2020,1013.0,Council of Europe Development Bank [CEB],10,ODA,46.279456
+2020,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,222.85010499999999
+2020,1015.0,Development Bank of Latin America [CAF],21,Non-export credit OOF,8805.0
+2020,1016.0,Green Climate Fund [GCF],10,ODA,440.194261
+2020,1016.0,Green Climate Fund [GCF],21,Non-export credit OOF,72.714937
+2020,1019.0,IDB Invest,21,Non-export credit OOF,2277.49203
+2020,1020.0,Central Emergency Response Fund [CERF],10,ODA,848.141
+2020,1023.0,World Tourism Organisation [UNWTO],10,ODA,8.031028
+2020,1024.0,Asian Infrastructure Investment Bank [AIIB],10,ODA,2.491656
+2020,1024.0,Asian Infrastructure Investment Bank [AIIB],21,Non-export credit OOF,5246.248995
+2020,1025.0,Center of Excellence in Finance [CEF],10,ODA,1.1396009999999999
+2020,1037.0,International Investment Bank [IIB],21,Non-export credit OOF,93.0
+2020,1038.0,UN Institute for Disarmament Research [UNIDIR],10,ODA,0.385909
+2020,1039.0,UN Capital Development Fund [UNCDF],10,ODA,11.744771
+2020,1045.0,North American Development Bank [NADB],10,ODA,0.109
+2020,1045.0,North American Development Bank [NADB],21,Non-export credit OOF,13.275
+2020,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,1993.314632
+2020,1312.0,Global Fund,10,ODA,4254.927259
+2020,1313.0,Global Green Growth Institute [GGGI],10,ODA,5.010268
+2020,1401.0,WTO - International Trade Centre [ITC],10,ODA,51.671581
+2020,1406.0,United Nations Industrial Development Organization [UNIDO],10,ODA,3.660828
+2020,1601.0,Bill & Melinda Gates Foundation,30,Private Development Finance,4068.606561
+2020,1602.0,Dutch Postcode Lottery,30,Private Development Finance,222.115099
+2020,1603.0,Swedish Postcode Lottery,30,Private Development Finance,59.63929
+2020,1604.0,People's Postcode Lottery,30,Private Development Finance,70.008339
+2020,1605.0,MetLife Foundation,30,Private Development Finance,1.381
+2020,1606.0,Mastercard Foundation,30,Private Development Finance,870.822212
+2020,1608.0,IKEA Foundation,30,Private Development Finance,162.048694
+2020,1609.0,Van Leer Foundation,30,Private Development Finance,14.268164
+2020,1610.0,MAVA Foundation,30,Private Development Finance,70.83313
+2020,1611.0,Oak Foundation,30,Private Development Finance,155.248245
+2020,1612.0,H&M Foundation,30,Private Development Finance,15.219826000000001
+2020,1613.0,Laudes Foundation,30,Private Development Finance,41.151325
+2020,1614.0,Charity Projects Ltd (Comic Relief),30,Private Development Finance,26.826638
+2020,1615.0,Children's Investment Fund Foundation,30,Private Development Finance,359.42704200000003
+2020,1616.0,Gatsby Charitable Foundation,30,Private Development Finance,17.827369
+2020,1617.0,Conrad N. Hilton Foundation,30,Private Development Finance,67.161
+2020,1618.0,David and Lucile Packard Foundation,30,Private Development Finance,145.147355
+2020,1619.0,John D. and Catherine T. MacArthur Foundation,30,Private Development Finance,106.860929
+2020,1620.0,Carnegie Corporation of New York,30,Private Development Finance,19.79
+2020,1621.0,Michael & Susan Dell Foundation,30,Private Development Finance,60.25291
+2020,1622.0,"Omidyar Network Fund, Inc.",30,Private Development Finance,29.67873
+2020,1623.0,Rockefeller Foundation,30,Private Development Finance,119.10417
+2020,1624.0,William and Flora Hewlett Foundation,30,Private Development Finance,160.446155
+2020,1625.0,Arcus Foundation,30,Private Development Finance,19.203488
+2020,1626.0,Gordon and Betty Moore Foundation,30,Private Development Finance,60.091568
+2020,1627.0,Ford Foundation,30,Private Development Finance,237.888058
+2020,1628.0,Wellcome Trust,30,Private Development Finance,531.672999
+2020,1629.0,UBS Optimus Foundation,30,Private Development Finance,103.765214
+2020,1630.0,World Diabetes Foundation,30,Private Development Finance,25.402677
+2020,1631.0,McKnight Foundation,30,Private Development Finance,3.919
+2020,1632.0,Citi Foundation,30,Private Development Finance,29.44
+2020,1633.0,LEGO Foundation,30,Private Development Finance,97.55717200000001
+2020,1634.0,Norwegian Postcode Lottery,30,Private Development Finance,5.587962
+2020,1636.0,Jacobs Foundation,30,Private Development Finance,17.968167
+2020,1637.0,Arcadia Fund,30,Private Development Finance,18.092498
+2020,1638.0,Margaret A. Cargill Foundation,30,Private Development Finance,42.099895
+2020,1639.0,La Caixa Banking Foundation,30,Private Development Finance,19.808442
+2020,1640.0,Bloomberg Family Foundation,30,Private Development Finance,193.888703
+2020,1641.0,Susan T. Buffett Foundation,30,Private Development Finance,317.574007
+2020,1642.0,Howard G. Buffett Foundation,30,Private Development Finance,94.070149
+2020,1643.0,Open Society Foundations,30,Private Development Finance,340.695795
+2020,1644.0,Fondation Botnar,30,Private Development Finance,61.001747
+2020,1646.0,Bezos Earth Fund,30,Private Development Finance,288.249501
+2020,1648.0,Leona M. and Harry B. Helmsley Charitable Trust,30,Private Development Finance,65.309494
+2021,1.0,Austria,10,ODA,720.818396
+2021,1.0,Austria,21,Non-export credit OOF,175.969762
+2021,2.0,Belgium,10,ODA,1370.087946
+2021,2.0,Belgium,21,Non-export credit OOF,167.06596
+2021,3.0,Denmark,10,ODA,2054.459424
+2021,3.0,Denmark,21,Non-export credit OOF,157.526098
+2021,4.0,France,10,ODA,12805.498793
+2021,4.0,France,21,Non-export credit OOF,1194.107557
+2021,5.0,Germany,10,ODA,27662.617815
+2021,5.0,Germany,21,Non-export credit OOF,2424.6146089999997
+2021,6.0,Italy,10,ODA,2688.269613
+2021,6.0,Italy,21,Non-export credit OOF,119.515389
+2021,7.0,Netherlands,10,ODA,3820.123273
+2021,8.0,Norway,10,ODA,3509.610493
+2021,8.0,Norway,21,Non-export credit OOF,459.528617
+2021,9.0,Portugal,10,ODA,206.418004
+2021,9.0,Portugal,21,Non-export credit OOF,42.189254
+2021,10.0,Sweden,10,ODA,3958.71129
+2021,10.0,Sweden,21,Non-export credit OOF,84.330452
+2021,11.0,Switzerland,10,ODA,2993.265639
+2021,11.0,Switzerland,21,Non-export credit OOF,74.347278
+2021,12.0,United Kingdom,10,ODA,9981.549563
+2021,12.0,United Kingdom,21,Non-export credit OOF,1909.449966
+2021,18.0,Finland,10,ODA,704.08815
+2021,18.0,Finland,21,Non-export credit OOF,123.516599
+2021,20.0,Iceland,10,ODA,57.573894
+2021,21.0,Ireland,10,ODA,622.146987
+2021,22.0,Luxembourg,10,ODA,365.220009
+2021,26.0,Monaco,10,ODA,21.776558
+2021,30.0,Cyprus,10,ODA,6.172141
+2021,40.0,Greece,10,ODA,74.489098
+2021,45.0,Malta,10,ODA,48.655651
+2021,50.0,Spain,10,ODA,1530.847251
+2021,50.0,Spain,21,Non-export credit OOF,51.524361
+2021,55.0,Türkiye,10,ODA,7627.9933900000005
+2021,61.0,Slovenia,10,ODA,46.07384
+2021,61.0,Slovenia,21,Non-export credit OOF,0.038825
+2021,62.0,Croatia,10,ODA,23.866557
+2021,68.0,Czechia,10,ODA,88.510432
+2021,69.0,Slovak Republic,10,ODA,36.663967
+2021,70.0,Liechtenstein,10,ODA,25.146491
+2021,72.0,Bulgaria,10,ODA,13.95
+2021,75.0,Hungary,10,ODA,253.234757
+2021,76.0,Poland,10,ODA,307.926812
+2021,77.0,Romania,10,ODA,86.040964
+2021,82.0,Estonia,10,ODA,24.771773
+2021,83.0,Latvia,10,ODA,7.2778920000000005
+2021,84.0,Lithuania,10,ODA,19.299328
+2021,104.0,Nordic Development Fund [NDF],10,ODA,35.738279
+2021,301.0,Canada,10,ODA,4979.894735
+2021,301.0,Canada,21,Non-export credit OOF,121.73913
+2021,302.0,United States,10,ODA,38953.07153
+2021,302.0,United States,21,Non-export credit OOF,2550.42101
+2021,546.0,Israel,10,ODA,318.963998
+2021,552.0,Kuwait,10,ODA,774.76176
+2021,561.0,Qatar,10,ODA,612.1325499999999
+2021,566.0,Saudi Arabia,10,ODA,7030.351388
+2021,566.0,Saudi Arabia,21,Non-export credit OOF,300.0
+2021,576.0,United Arab Emirates,10,ODA,1427.689049
+2021,576.0,United Arab Emirates,21,Non-export credit OOF,26.317514000000003
+2021,613.0,Kazakhstan,10,ODA,36.900819
+2021,701.0,Japan,10,ODA,17808.338935
+2021,732.0,Chinese Taipei,10,ODA,193.243583
+2021,742.0,Korea,10,ODA,2452.114864
+2021,742.0,Korea,21,Non-export credit OOF,2006.222202
+2021,764.0,Thailand,10,ODA,72.041329
+2021,801.0,Australia,10,ODA,3080.837142
+2021,811.0,Global Environment Facility [GEF],10,ODA,477.300756
+2021,820.0,New Zealand,10,ODA,579.181252
+2021,820.0,New Zealand,21,Non-export credit OOF,19.54
+2021,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,23722.82232
+2021,905.0,International Development Association [IDA],10,ODA,20795.282684
+2021,905.0,International Development Association [IDA],21,Non-export credit OOF,1112.333046
+2021,906.0,Caribbean Development Bank [CarDB],10,ODA,122.889856
+2021,906.0,Caribbean Development Bank [CarDB],21,Non-export credit OOF,37.274271
+2021,909.0,Inter-American Development Bank [IDB],10,ODA,967.321756
+2021,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,9351.513605
+2021,910.0,Central American Bank for Economic Integration [CABEI],10,ODA,401.153972
+2021,910.0,Central American Bank for Economic Integration [CABEI],21,Non-export credit OOF,2260.684503
+2021,913.0,African Development Bank [AfDB],10,ODA,30.304353
+2021,913.0,African Development Bank [AfDB],21,Non-export credit OOF,2441.1277569999997
+2021,914.0,African Development Fund [AfDF],10,ODA,2546.444506
+2021,915.0,Asian Development Bank [AsDB],10,ODA,3453.682816
+2021,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,14877.440433
+2021,918.0,EU Institutions,10,ODA,24092.769513
+2021,918.0,EU Institutions,21,Non-export credit OOF,1152.4009700000001
+2021,921.0,Arab Fund (AFESD),10,ODA,172.43
+2021,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,196.03562
+2021,928.0,World Health Organisation [WHO],10,ODA,609.972669
+2021,932.0,Food and Agriculture Organisation [FAO],10,ODA,432.36836
+2021,940.0,International Labour Organisation [ILO],10,ODA,255.1698
+2021,944.0,International Atomic Energy Agency [IAEA],10,ODA,72.433418
+2021,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,946.947314
+2021,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,426.986624
+2021,958.0,IMF Concessional Trust Funds,10,ODA,4556.0546300000005
+2021,959.0,UNDP,10,ODA,430.45199
+2021,962.0,United Nations Conference on Trade and Development [UNCTAD],10,ODA,1.797521
+2021,963.0,UNICEF,10,ODA,906.707
+2021,964.0,UNRWA,10,ODA,727.358507
+2021,966.0,WFP,10,ODA,343.72957
+2021,967.0,UNHCR,10,ODA,597.02033
+2021,971.0,UNAIDS,10,ODA,88.201716
+2021,974.0,UNFPA,10,ODA,329.977858
+2021,976.0,Islamic Development Bank [IsDB],10,ODA,100.00795099999999
+2021,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,7581.473432
+2021,978.0,OSCE,10,ODA,115.844674
+2021,981.0,Black Sea Trade & Development Bank [BSTDB],21,Non-export credit OOF,275.43009
+2021,988.0,IFAD,10,ODA,660.7669999999999
+2021,988.0,IFAD,21,Non-export credit OOF,136.771
+2021,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,5865.541107
+2021,1011.0,Climate Investment Funds [CIF],10,ODA,218.171402
+2021,1012.0,Adaptation Fund,10,ODA,63.498402
+2021,1013.0,Council of Europe Development Bank [CEB],10,ODA,54.178903
+2021,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,552.965588
+2021,1015.0,Development Bank of Latin America [CAF],21,Non-export credit OOF,7660.0
+2021,1016.0,Green Climate Fund [GCF],10,ODA,658.418599
+2021,1016.0,Green Climate Fund [GCF],21,Non-export credit OOF,185.381538
+2021,1019.0,IDB Invest,21,Non-export credit OOF,4044.30901
+2021,1020.0,Central Emergency Response Fund [CERF],10,ODA,548.049
+2021,1023.0,World Tourism Organisation [UNWTO],10,ODA,13.361283
+2021,1024.0,Asian Infrastructure Investment Bank [AIIB],10,ODA,2.0
+2021,1024.0,Asian Infrastructure Investment Bank [AIIB],21,Non-export credit OOF,6925.0068599999995
+2021,1025.0,Center of Excellence in Finance [CEF],10,ODA,1.1825919999999999
+2021,1037.0,International Investment Bank [IIB],21,Non-export credit OOF,43.689945
+2021,1038.0,UN Institute for Disarmament Research [UNIDIR],10,ODA,0.483
+2021,1039.0,UN Capital Development Fund [UNCDF],10,ODA,13.362699
+2021,1045.0,North American Development Bank [NADB],10,ODA,0.937
+2021,1045.0,North American Development Bank [NADB],21,Non-export credit OOF,4.759
+2021,1046.0,UN Women,10,ODA,152.247119
+2021,1047.0,COVID-19 Response and Recovery Multi-Partner Trust Fund [UN COVID-19 MPTF],10,ODA,22.23812
+2021,1048.0,Joint Sustainable Development Goals Fund [Joint SDG Fund],10,ODA,55.9371
+2021,1049.0,International Commission on Missing Persons [ICMP],10,ODA,0.8658210000000001
+2021,1050.0,WHO-Strategic Preparedness and Response Plan [SPRP],10,ODA,159.956715
+2021,1052.0,International Centre for Genetic Engineering and Biotechnology [ICGEB],10,ODA,3.962037
+2021,1054.0,World Organisation for Animal Health [WOAH],10,ODA,11.438449
+2021,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,1629.04926
+2021,1312.0,Global Fund,10,ODA,5192.387179
+2021,1313.0,Global Green Growth Institute [GGGI],10,ODA,3.408166
+2021,1401.0,WTO - International Trade Centre [ITC],10,ODA,52.467863
+2021,1404.0,World Trade Organisation,10,ODA,0.284506
+2021,1406.0,United Nations Industrial Development Organization [UNIDO],10,ODA,4.38232
+2021,1601.0,Bill & Melinda Gates Foundation,30,Private Development Finance,4310.819283
+2021,1602.0,Dutch Postcode Lottery,30,Private Development Finance,209.450881
+2021,1603.0,Swedish Postcode Lottery,30,Private Development Finance,59.745953
+2021,1604.0,People's Postcode Lottery,30,Private Development Finance,61.558454
+2021,1606.0,Mastercard Foundation,30,Private Development Finance,1324.081211
+2021,1608.0,IKEA Foundation,30,Private Development Finance,276.786366
+2021,1609.0,Van Leer Foundation,30,Private Development Finance,14.063891
+2021,1610.0,MAVA Foundation,30,Private Development Finance,75.045948
+2021,1611.0,Oak Foundation,30,Private Development Finance,156.770216
+2021,1612.0,H&M Foundation,30,Private Development Finance,9.424032
+2021,1613.0,Laudes Foundation,30,Private Development Finance,50.401044
+2021,1614.0,Charity Projects Ltd (Comic Relief),30,Private Development Finance,24.229017
+2021,1615.0,Children's Investment Fund Foundation,30,Private Development Finance,362.219357
+2021,1617.0,Conrad N. Hilton Foundation,30,Private Development Finance,137.712501
+2021,1618.0,David and Lucile Packard Foundation,30,Private Development Finance,202.92249900000002
+2021,1619.0,John D. and Catherine T. MacArthur Foundation,30,Private Development Finance,121.629148
+2021,1620.0,Carnegie Corporation of New York,30,Private Development Finance,14.535
+2021,1621.0,Michael & Susan Dell Foundation,30,Private Development Finance,43.979124
+2021,1622.0,"Omidyar Network Fund, Inc.",30,Private Development Finance,26.02328
+2021,1623.0,Rockefeller Foundation,30,Private Development Finance,343.387088
+2021,1624.0,William and Flora Hewlett Foundation,30,Private Development Finance,183.896881
+2021,1625.0,Arcus Foundation,30,Private Development Finance,19.068564
+2021,1626.0,Gordon and Betty Moore Foundation,30,Private Development Finance,98.754906
+2021,1627.0,Ford Foundation,30,Private Development Finance,284.756389
+2021,1628.0,Wellcome Trust,30,Private Development Finance,509.817562
+2021,1629.0,UBS Optimus Foundation,30,Private Development Finance,78.072037
+2021,1630.0,World Diabetes Foundation,30,Private Development Finance,26.335771
+2021,1632.0,Citi Foundation,30,Private Development Finance,19.508336
+2021,1633.0,LEGO Foundation,30,Private Development Finance,196.2668
+2021,1634.0,Norwegian Postcode Lottery,30,Private Development Finance,9.246462
+2021,1636.0,Jacobs Foundation,30,Private Development Finance,38.34491
+2021,1637.0,Arcadia Fund,30,Private Development Finance,54.382307999999995
+2021,1638.0,Margaret A. Cargill Foundation,30,Private Development Finance,49.737202
+2021,1639.0,La Caixa Banking Foundation,30,Private Development Finance,20.687912999999998
+2021,1640.0,Bloomberg Family Foundation,30,Private Development Finance,276.517398
+2021,1641.0,Susan T. Buffett Foundation,30,Private Development Finance,265.401225
+2021,1642.0,Howard G. Buffett Foundation,30,Private Development Finance,129.43088
+2021,1643.0,Open Society Foundations,30,Private Development Finance,431.207465
+2021,1644.0,Fondation Botnar,30,Private Development Finance,70.101124
+2021,1646.0,Bezos Earth Fund,30,Private Development Finance,329.37
+2021,1647.0,German Postcode Lottery,30,Private Development Finance,7.0455060000000005
+2021,1648.0,Leona M. and Harry B. Helmsley Charitable Trust,30,Private Development Finance,65.091187
+2022,1.0,Austria,10,ODA,1094.524868
+2022,1.0,Austria,21,Non-export credit OOF,254.983948
+2022,2.0,Belgium,10,ODA,1313.094253
+2022,2.0,Belgium,21,Non-export credit OOF,482.94663299999996
+2022,3.0,Denmark,10,ODA,2059.104489
+2022,3.0,Denmark,21,Non-export credit OOF,121.124261
+2022,4.0,France,10,ODA,13166.000652
+2022,4.0,France,21,Non-export credit OOF,1238.706671
+2022,5.0,Germany,10,ODA,32850.132499
+2022,5.0,Germany,21,Non-export credit OOF,1325.967839
+2022,6.0,Italy,10,ODA,3599.106476
+2022,6.0,Italy,21,Non-export credit OOF,99.588071
+2022,7.0,Netherlands,10,ODA,4367.857201
+2022,8.0,Norway,10,ODA,4125.660329
+2022,8.0,Norway,21,Non-export credit OOF,557.82901
+2022,9.0,Portugal,10,ODA,256.266682
+2022,9.0,Portugal,21,Non-export credit OOF,6.309812
+2022,10.0,Sweden,10,ODA,3550.172875
+2022,10.0,Sweden,21,Non-export credit OOF,91.098862
+2022,11.0,Switzerland,10,ODA,3753.620612
+2022,11.0,Switzerland,21,Non-export credit OOF,90.626804
+2022,12.0,United Kingdom,10,ODA,12028.782835
+2022,12.0,United Kingdom,21,Non-export credit OOF,1965.128802
+2022,18.0,Finland,10,ODA,1036.581693
+2022,18.0,Finland,21,Non-export credit OOF,63.571334
+2022,20.0,Iceland,10,ODA,72.408887
+2022,21.0,Ireland,10,ODA,1824.491374
+2022,22.0,Luxembourg,10,ODA,374.353282
+2022,26.0,Monaco,10,ODA,21.28688
+2022,30.0,Cyprus,10,ODA,4.898854
+2022,40.0,Greece,10,ODA,99.96333299999999
+2022,45.0,Malta,10,ODA,40.459421
+2022,50.0,Spain,10,ODA,2247.633714
+2022,50.0,Spain,21,Non-export credit OOF,21.161659999999998
+2022,55.0,Türkiye,10,ODA,6973.760137
+2022,55.0,Türkiye,21,Non-export credit OOF,135.953627
+2022,61.0,Slovenia,10,ODA,87.381783
+2022,62.0,Croatia,10,ODA,74.10265
+2022,68.0,Czechia,10,ODA,734.840999
+2022,69.0,Slovak Republic,10,ODA,40.696295
+2022,70.0,Liechtenstein,10,ODA,30.116672
+2022,72.0,Bulgaria,10,ODA,138.813389
+2022,75.0,Hungary,10,ODA,294.318406
+2022,75.0,Hungary,30,Private Development Finance,0.10209399999999999
+2022,76.0,Poland,10,ODA,2678.217472
+2022,76.0,Poland,21,Non-export credit OOF,0.748615
+2022,77.0,Romania,10,ODA,103.01883000000001
+2022,82.0,Estonia,10,ODA,156.483341
+2022,83.0,Latvia,10,ODA,89.454305
+2022,84.0,Lithuania,10,ODA,140.661924
+2022,104.0,Nordic Development Fund [NDF],10,ODA,32.265674
+2022,301.0,Canada,10,ODA,7128.285503
+2022,301.0,Canada,21,Non-export credit OOF,205.714998
+2022,302.0,United States,10,ODA,52792.459298
+2022,302.0,United States,21,Non-export credit OOF,2113.924614
+2022,546.0,Israel,10,ODA,446.72899
+2022,552.0,Kuwait,10,ODA,522.880102
+2022,561.0,Qatar,10,ODA,735.738035
+2022,566.0,Saudi Arabia,10,ODA,6482.856633
+2022,576.0,United Arab Emirates,10,ODA,1823.261722
+2022,576.0,United Arab Emirates,21,Non-export credit OOF,1022.134359
+2022,611.0,Azerbaijan,10,ODA,35.227433
+2022,613.0,Kazakhstan,10,ODA,33.239767
+2022,701.0,Japan,10,ODA,19640.580899
+2022,742.0,Korea,10,ODA,2471.174326
+2022,742.0,Korea,21,Non-export credit OOF,1008.5524849999999
+2022,742.0,Korea,30,Private Development Finance,543.92229
+2022,764.0,Thailand,10,ODA,64.03461
+2022,801.0,Australia,10,ODA,2623.128483
+2022,801.0,Australia,21,Non-export credit OOF,72.675653
+2022,807.0,UNEP,10,ODA,211.89632500000002
+2022,811.0,Global Environment Facility [GEF],10,ODA,512.024651
+2022,820.0,New Zealand,10,ODA,415.436362
+2022,820.0,New Zealand,21,Non-export credit OOF,19.867791
+2022,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,27343.95294
+2022,905.0,International Development Association [IDA],10,ODA,23610.30195
+2022,905.0,International Development Association [IDA],21,Non-export credit OOF,1785.08967
+2022,906.0,Caribbean Development Bank [CarDB],10,ODA,7.674
+2022,906.0,Caribbean Development Bank [CarDB],21,Non-export credit OOF,146.327419
+2022,909.0,Inter-American Development Bank [IDB],10,ODA,1731.897427
+2022,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,8014.066292
+2022,910.0,Central American Bank for Economic Integration [CABEI],10,ODA,1279.231445
+2022,910.0,Central American Bank for Economic Integration [CABEI],21,Non-export credit OOF,771.8271090000001
+2022,913.0,African Development Bank [AfDB],10,ODA,17.015159
+2022,913.0,African Development Bank [AfDB],21,Non-export credit OOF,3377.930293
+2022,914.0,African Development Fund [AfDF],10,ODA,1308.732602
+2022,915.0,Asian Development Bank [AsDB],10,ODA,3411.792216
+2022,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,16437.348444
+2022,918.0,EU Institutions,10,ODA,30530.944786
+2022,918.0,EU Institutions,21,Non-export credit OOF,1501.4346229999999
+2022,921.0,Arab Fund (AFESD),10,ODA,468.038706
+2022,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,183.481746
+2022,928.0,World Health Organisation [WHO],10,ODA,465.704289
+2022,932.0,Food and Agriculture Organisation [FAO],10,ODA,429.402213
+2022,940.0,International Labour Organisation [ILO],10,ODA,241.954777
+2022,944.0,International Atomic Energy Agency [IAEA],10,ODA,94.152061
+2022,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,1152.9105710000001
+2022,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,458.045288
+2022,958.0,IMF Concessional Trust Funds,10,ODA,2531.634029
+2022,959.0,UNDP,10,ODA,458.646126
+2022,962.0,United Nations Conference on Trade and Development [UNCTAD],10,ODA,4.793086
+2022,963.0,UNICEF,10,ODA,911.516
+2022,964.0,UNRWA,10,ODA,851.4760299999999
+2022,966.0,WFP,10,ODA,366.505268
+2022,967.0,UNHCR,10,ODA,630.2521
+2022,971.0,UNAIDS,10,ODA,92.941286
+2022,974.0,UNFPA,10,ODA,518.80773
+2022,976.0,Islamic Development Bank [IsDB],10,ODA,291.021954
+2022,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,9462.254468000001
+2022,978.0,OSCE,10,ODA,102.471205
+2022,981.0,Black Sea Trade & Development Bank [BSTDB],21,Non-export credit OOF,117.417184
+2022,988.0,IFAD,10,ODA,766.66205
+2022,988.0,IFAD,21,Non-export credit OOF,191.75666
+2022,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,6041.895015
+2022,1011.0,Climate Investment Funds [CIF],10,ODA,222.706331
+2022,1012.0,Adaptation Fund,10,ODA,67.691429
+2022,1013.0,Council of Europe Development Bank [CEB],10,ODA,11.69103
+2022,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,677.635923
+2022,1015.0,Development Bank of Latin America [CAF],21,Non-export credit OOF,6782.0
+2022,1016.0,Green Climate Fund [GCF],10,ODA,501.532128
+2022,1016.0,Green Climate Fund [GCF],21,Non-export credit OOF,297.84871
+2022,1019.0,IDB Invest,21,Non-export credit OOF,2255.831105
+2022,1020.0,Central Emergency Response Fund [CERF],10,ODA,734.649
+2022,1023.0,World Tourism Organisation [UNWTO],10,ODA,12.494377
+2022,1024.0,Asian Infrastructure Investment Bank [AIIB],10,ODA,4.20549
+2022,1024.0,Asian Infrastructure Investment Bank [AIIB],21,Non-export credit OOF,6168.907812
+2022,1025.0,Center of Excellence in Finance [CEF],10,ODA,1.051635
+2022,1038.0,UN Institute for Disarmament Research [UNIDIR],10,ODA,0.31601999999999997
+2022,1039.0,UN Capital Development Fund [UNCDF],10,ODA,13.35825
+2022,1045.0,North American Development Bank [NADB],10,ODA,0.799
+2022,1045.0,North American Development Bank [NADB],21,Non-export credit OOF,23.987000000000002
+2022,1046.0,UN Women,10,ODA,159.441387
+2022,1047.0,COVID-19 Response and Recovery Multi-Partner Trust Fund [UN COVID-19 MPTF],10,ODA,0.46942
+2022,1048.0,Joint Sustainable Development Goals Fund [Joint SDG Fund],10,ODA,59.920379
+2022,1049.0,International Commission on Missing Persons [ICMP],10,ODA,0.524652
+2022,1050.0,WHO-Strategic Preparedness and Response Plan [SPRP],10,ODA,59.005624
+2022,1052.0,International Centre for Genetic Engineering and Biotechnology [ICGEB],10,ODA,4.034042
+2022,1054.0,World Organisation for Animal Health [WOAH],10,ODA,11.219114000000001
+2022,1055.0,CGIAR,10,ODA,82.847
+2022,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,1921.521005
+2022,1312.0,Global Fund,10,ODA,5298.271394
+2022,1313.0,Global Green Growth Institute [GGGI],10,ODA,2.5700000000000003
+2022,1401.0,WTO - International Trade Centre [ITC],10,ODA,50.403757999999996
+2022,1404.0,World Trade Organisation,10,ODA,4.689658
+2022,1406.0,United Nations Industrial Development Organization [UNIDO],10,ODA,5.32741
+2022,1601.0,Bill & Melinda Gates Foundation,30,Private Development Finance,4389.896399
+2022,1602.0,Dutch Postcode Lottery,30,Private Development Finance,190.903379
+2022,1603.0,Swedish Postcode Lottery,30,Private Development Finance,50.841429
+2022,1604.0,People's Postcode Lottery,30,Private Development Finance,76.839245
+2022,1606.0,Mastercard Foundation,30,Private Development Finance,1159.322507
+2022,1608.0,IKEA Foundation,30,Private Development Finance,260.712302
+2022,1609.0,Van Leer Foundation,30,Private Development Finance,11.458552
+2022,1610.0,MAVA Foundation,30,Private Development Finance,57.116469
+2022,1611.0,Oak Foundation,30,Private Development Finance,249.982752
+2022,1612.0,H&M Foundation,30,Private Development Finance,5.373084
+2022,1613.0,Laudes Foundation,30,Private Development Finance,26.368663
+2022,1615.0,Children's Investment Fund Foundation,30,Private Development Finance,399.226907
+2022,1617.0,Conrad N. Hilton Foundation,30,Private Development Finance,200.703
+2022,1618.0,David and Lucile Packard Foundation,30,Private Development Finance,107.114632
+2022,1619.0,John D. and Catherine T. MacArthur Foundation,30,Private Development Finance,102.390884
+2022,1620.0,Carnegie Corporation of New York,30,Private Development Finance,23.6201
+2022,1621.0,Michael & Susan Dell Foundation,30,Private Development Finance,47.346332
+2022,1622.0,"Omidyar Network Fund, Inc.",30,Private Development Finance,8.636393
+2022,1623.0,Rockefeller Foundation,30,Private Development Finance,132.041423
+2022,1624.0,William and Flora Hewlett Foundation,30,Private Development Finance,197.538239
+2022,1625.0,Arcus Foundation,30,Private Development Finance,20.975317
+2022,1626.0,Gordon and Betty Moore Foundation,30,Private Development Finance,93.188917
+2022,1627.0,Ford Foundation,30,Private Development Finance,310.507792
+2022,1628.0,Wellcome Trust,30,Private Development Finance,396.433167
+2022,1629.0,UBS Optimus Foundation,30,Private Development Finance,110.987725
+2022,1630.0,World Diabetes Foundation,30,Private Development Finance,10.627608
+2022,1633.0,LEGO Foundation,30,Private Development Finance,258.443389
+2022,1634.0,Norwegian Postcode Lottery,30,Private Development Finance,10.72668
+2022,1636.0,Jacobs Foundation,30,Private Development Finance,22.928566
+2022,1637.0,Arcadia Fund,30,Private Development Finance,38.135218
+2022,1638.0,Margaret A. Cargill Foundation,30,Private Development Finance,53.5865
+2022,1639.0,La Caixa Banking Foundation,30,Private Development Finance,22.699067
+2022,1640.0,Bloomberg Family Foundation,30,Private Development Finance,387.898341
+2022,1641.0,Susan T. Buffett Foundation,30,Private Development Finance,237.025266
+2022,1642.0,Howard G. Buffett Foundation,30,Private Development Finance,237.84733999999997
+2022,1644.0,Fondation Botnar,30,Private Development Finance,60.408036
+2022,1646.0,Bezos Earth Fund,30,Private Development Finance,169.9056
+2022,1647.0,German Postcode Lottery,30,Private Development Finance,11.652726
+2022,1648.0,Leona M. and Harry B. Helmsley Charitable Trust,30,Private Development Finance,67.53318300000001
+2023,1.0,Austria,10,ODA,914.394136
+2023,1.0,Austria,21,Non-export credit OOF,27.5
+2023,1.0,Austria,60,PSI,312.948086
+2023,2.0,Belgium,10,ODA,1403.881382
+2023,2.0,Belgium,21,Non-export credit OOF,195.52334
+2023,3.0,Denmark,10,ODA,2125.682884
+2023,3.0,Denmark,60,PSI,103.733494
+2023,4.0,France,10,ODA,11074.445001
+2023,4.0,France,21,Non-export credit OOF,709.932582
+2023,4.0,France,60,PSI,1951.6726820000001
+2023,5.0,Germany,10,ODA,29494.90912
+2023,5.0,Germany,21,Non-export credit OOF,654.9356740000001
+2023,5.0,Germany,60,PSI,1611.892894
+2023,6.0,Italy,10,ODA,2803.734973
+2023,6.0,Italy,21,Non-export credit OOF,531.770075
+2023,7.0,Netherlands,10,ODA,5109.034068
+2023,8.0,Norway,10,ODA,4294.674879
+2023,8.0,Norway,60,PSI,810.788284
+2023,9.0,Portugal,10,ODA,278.83845
+2023,9.0,Portugal,21,Non-export credit OOF,5.224913
+2023,9.0,Portugal,60,PSI,1.081315
+2023,10.0,Sweden,10,ODA,3260.216147
+2023,10.0,Sweden,60,PSI,147.621077
+2023,11.0,Switzerland,10,ODA,4211.197224
+2023,11.0,Switzerland,60,PSI,84.948523
+2023,12.0,United Kingdom,10,ODA,12127.077272
+2023,12.0,United Kingdom,60,PSI,1777.617154
+2023,18.0,Finland,10,ODA,941.210858
+2023,18.0,Finland,21,Non-export credit OOF,82.373487
+2023,20.0,Iceland,10,ODA,86.890308
+2023,21.0,Ireland,10,ODA,2145.587093
+2023,22.0,Luxembourg,10,ODA,425.758442
+2023,26.0,Monaco,10,ODA,23.412804
+2023,30.0,Cyprus,10,ODA,4.144004
+2023,40.0,Greece,10,ODA,57.279641
+2023,45.0,Malta,10,ODA,47.09926
+2023,50.0,Spain,10,ODA,1558.294956
+2023,50.0,Spain,60,PSI,42.182880999999995
+2023,55.0,Türkiye,10,ODA,6806.699612
+2023,55.0,Türkiye,21,Non-export credit OOF,107.825125
+2023,61.0,Slovenia,10,ODA,68.072159
+2023,62.0,Croatia,10,ODA,98.249972
+2023,68.0,Czechia,10,ODA,494.54135
+2023,68.0,Czechia,60,PSI,0.013901
+2023,69.0,Slovak Republic,10,ODA,38.132249
+2023,70.0,Liechtenstein,10,ODA,36.038741
+2023,72.0,Bulgaria,10,ODA,27.311204
+2023,75.0,Hungary,10,ODA,220.986522
+2023,76.0,Poland,10,ODA,1716.4457029999999
+2023,76.0,Poland,21,Non-export credit OOF,0.955684
+2023,77.0,Romania,10,ODA,209.558862
+2023,82.0,Estonia,10,ODA,59.478814
+2023,83.0,Latvia,10,ODA,74.660588
+2023,84.0,Lithuania,10,ODA,124.643088
+2023,104.0,Nordic Development Fund [NDF],10,ODA,48.414262
+2023,301.0,Canada,10,ODA,6852.506323
+2023,301.0,Canada,21,Non-export credit OOF,15.415402
+2023,301.0,Canada,60,PSI,529.825251
+2023,302.0,United States,10,ODA,59426.970271000006
+2023,302.0,United States,60,PSI,1360.156448
+2023,546.0,Israel,10,ODA,422.203868
+2023,552.0,Kuwait,10,ODA,68.018901
+2023,561.0,Qatar,10,ODA,667.074606
+2023,566.0,Saudi Arabia,10,ODA,5331.806374
+2023,576.0,United Arab Emirates,10,ODA,2198.7040779999998
+2023,576.0,United Arab Emirates,21,Non-export credit OOF,5.624558
+2023,611.0,Azerbaijan,10,ODA,90.223603
+2023,701.0,Japan,10,ODA,20382.906072
+2023,732.0,Chinese Taipei,10,ODA,454.123424
+2023,742.0,Korea,10,ODA,2657.729304
+2023,742.0,Korea,21,Non-export credit OOF,680.079241
+2023,801.0,Australia,10,ODA,2721.610895
+2023,801.0,Australia,21,Non-export credit OOF,28.639195
+2023,801.0,Australia,60,PSI,5.549328
+2023,807.0,UNEP,10,ODA,185.064849
+2023,811.0,Global Environment Facility [GEF],10,ODA,303.595383
+2023,820.0,New Zealand,10,ODA,639.789538
+2023,820.0,New Zealand,21,Non-export credit OOF,17.974859
+2023,901.0,International Bank for Reconstruction and Development [IBRD],21,Non-export credit OOF,26821.61421
+2023,905.0,International Development Association [IDA],10,ODA,25303.154160000002
+2023,905.0,International Development Association [IDA],21,Non-export credit OOF,2389.77071
+2023,906.0,Caribbean Development Bank [CarDB],10,ODA,16.060942
+2023,906.0,Caribbean Development Bank [CarDB],21,Non-export credit OOF,153.353551
+2023,909.0,Inter-American Development Bank [IDB],10,ODA,868.133546
+2023,909.0,Inter-American Development Bank [IDB],21,Non-export credit OOF,7910.605036
+2023,910.0,Central American Bank for Economic Integration [CABEI],10,ODA,1080.843629
+2023,910.0,Central American Bank for Economic Integration [CABEI],21,Non-export credit OOF,1380.399471
+2023,913.0,African Development Bank [AfDB],10,ODA,8.951576
+2023,913.0,African Development Bank [AfDB],21,Non-export credit OOF,4120.109672
+2023,914.0,African Development Fund [AfDF],10,ODA,1738.382937
+2023,915.0,Asian Development Bank [AsDB],10,ODA,3133.586363
+2023,915.0,Asian Development Bank [AsDB],21,Non-export credit OOF,14577.132308
+2023,918.0,EU Institutions,10,ODA,40076.702388
+2023,918.0,EU Institutions,21,Non-export credit OOF,1231.90528
+2023,918.0,EU Institutions,60,PSI,1856.002375
+2023,921.0,Arab Fund (AFESD),10,ODA,434.550304
+2023,923.0,UN Peacebuilding Fund [UNPBF],10,ODA,183.070681
+2023,928.0,World Health Organisation [WHO],10,ODA,633.541888
+2023,932.0,Food and Agriculture Organisation [FAO],10,ODA,504.717401
+2023,940.0,International Labour Organisation [ILO],10,ODA,308.602458
+2023,944.0,International Atomic Energy Agency [IAEA],10,ODA,116.45221000000001
+2023,951.0,OPEC Fund for International Development [OPEC Fund],10,ODA,1673.29167
+2023,951.0,OPEC Fund for International Development [OPEC Fund],21,Non-export credit OOF,515.31563
+2023,958.0,IMF Concessional Trust Funds,10,ODA,2514.265772
+2023,962.0,United Nations Conference on Trade and Development [UNCTAD],10,ODA,3.644127
+2023,963.0,UNICEF,10,ODA,947.702
+2023,964.0,UNRWA,10,ODA,1460.546359
+2023,966.0,WFP,10,ODA,433.511008
+2023,967.0,UNHCR,10,ODA,798.833
+2023,971.0,UNAIDS,10,ODA,90.09965
+2023,974.0,UNFPA,10,ODA,497.63267
+2023,976.0,Islamic Development Bank [IsDB],10,ODA,101.549296
+2023,976.0,Islamic Development Bank [IsDB],21,Non-export credit OOF,8505.527015
+2023,978.0,OSCE,10,ODA,103.418014
+2023,981.0,Black Sea Trade & Development Bank [BSTDB],21,Non-export credit OOF,146.329957
+2023,988.0,IFAD,10,ODA,683.90254
+2023,988.0,IFAD,21,Non-export credit OOF,206.99273
+2023,990.0,European Bank for Reconstruction and Development [EBRD],21,Non-export credit OOF,7092.057812
+2023,1011.0,Climate Investment Funds [CIF],10,ODA,367.477
+2023,1012.0,Adaptation Fund,10,ODA,111.876
+2023,1013.0,Council of Europe Development Bank [CEB],10,ODA,9.322146
+2023,1013.0,Council of Europe Development Bank [CEB],21,Non-export credit OOF,896.791233
+2023,1015.0,Development Bank of Latin America [CAF],21,Non-export credit OOF,7683.0
+2023,1016.0,Green Climate Fund [GCF],10,ODA,632.41792
+2023,1016.0,Green Climate Fund [GCF],21,Non-export credit OOF,116.858908
+2023,1019.0,IDB Invest,21,Non-export credit OOF,2535.811243
+2023,1020.0,Central Emergency Response Fund [CERF],10,ODA,667.927532
+2023,1024.0,Asian Infrastructure Investment Bank [AIIB],10,ODA,6.903767
+2023,1024.0,Asian Infrastructure Investment Bank [AIIB],21,Non-export credit OOF,9527.653435
+2023,1025.0,Center of Excellence in Finance [CEF],10,ODA,1.08131
+2023,1038.0,UN Institute for Disarmament Research [UNIDIR],10,ODA,0.716592
+2023,1039.0,UN Capital Development Fund [UNCDF],10,ODA,10.071060000000001
+2023,1045.0,North American Development Bank [NADB],10,ODA,0.242
+2023,1045.0,North American Development Bank [NADB],21,Non-export credit OOF,60.246
+2023,1046.0,UN Women,10,ODA,282.100959
+2023,1048.0,Joint Sustainable Development Goals Fund [Joint SDG Fund],10,ODA,18.854822
+2023,1049.0,International Commission on Missing Persons [ICMP],10,ODA,0.5422
+2023,1050.0,WHO-Strategic Preparedness and Response Plan [SPRP],10,ODA,25.182669
+2023,1052.0,International Centre for Genetic Engineering and Biotechnology [ICGEB],10,ODA,3.985208
+2023,1055.0,CGIAR,10,ODA,83.863
+2023,1311.0,Global Alliance for Vaccines and Immunization [GAVI],10,ODA,2006.855975
+2023,1312.0,Global Fund,10,ODA,5176.73818
+2023,1313.0,Global Green Growth Institute [GGGI],10,ODA,2.427754
+2023,1401.0,WTO - International Trade Centre [ITC],10,ODA,40.682625
+2023,1404.0,World Trade Organisation,10,ODA,10.216919
+2023,1406.0,United Nations Industrial Development Organization [UNIDO],10,ODA,6.209266
